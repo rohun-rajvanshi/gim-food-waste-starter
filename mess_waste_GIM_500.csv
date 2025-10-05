@@ -1,0 +1,501 @@
+date,day_of_week,is_weekend,event_type,event_flag,temp_c,rain_mm,humidity,veg_main_dish,nonveg_main_dish,dessert,sweet_type,cooked_kg,consumed_kg,food_waste_kg
+2024-07-01,Mon,0,Fest,1,28.4,35.1,87,"Jeera Rice, Dal Fry, Chapati",Scrambled Eggs/Banana,"Bread Pakoda, Ketchup",Fried,410.16,405.44,5.91
+2024-07-02,Tue,0,None,0,30.7,0.0,77,Gravy- Gujarati Kadhi,Fish Kalia,"Bread Pakoda, Ketchup",Fried,408.56,396.67,12.84
+2024-07-03,Wed,0,Fest,1,29.3,0.0,78,Chole Bhature,Bengali Fish Curry,Imarti,Fried,426.69,434.52,0.0
+2024-07-04,Thu,0,None,0,29.5,25.9,82,Dry- Cabbage Masala,Fish Kalia,Fruit Custard,Milk-based,392.02,378.99,12.93
+2024-07-05,Fri,0,None,0,28.1,0.0,79,"Moong Dal Chilla, Curd, Coriander Chutney",Egg Roast Curry,Mysore Pak,Fried,422.19,407.86,14.7
+2024-07-06,Sat,1,None,0,28.1,31.7,79,Dry- Gobi Matar,"Sindhi Chicken Biryani, Mirchi ka Salan",Halwa,Halwa-type,396.23,377.41,19.02
+2024-07-07,Sun,1,None,0,28.9,33.1,79,Gravy - Shahi Paneer,Bengali Fish Curry,Gravy- Punjabi Kadhi Pakora,Fried,412.5,375.55,36.31
+2024-07-08,Mon,0,None,0,29.2,0.0,79,Dry- Mixed Sprouts Dry,Egg Roast Curry,Caramel Pudding,Milk-based,413.69,405.17,8.73
+2024-07-09,Tue,0,None,0,31.2,0.0,80,"Jeera Rice, Dhaba Style Dal, Chapati",Chicken Sukka,Imarti,Fried,384.77,393.09,0.0
+2024-07-10,Wed,0,None,0,28.9,0.0,79,"Pyaaz Kachori, Rajasthani Kadhi",Chicken Tikka Masala,Gravy- Punjabi Kadhi Pakora,Fried,396.04,400.01,0.0
+2024-07-11,Thu,0,None,0,27.7,34.5,83,Gravy- Aloo Palak,Boiled Eggs/Banana,Jalebi,Fried,381.29,348.62,33.03
+2024-07-12,Fri,0,None,0,29.1,7.4,74,Gravy- Aloo Palak,Hyderabadi Chicken,Gulab Jamun,Fried,389.15,382.7,9.57
+2024-07-13,Sat,1,None,0,27.5,49.2,78,"Steamed Rice, Moong Dal, Chapati",Boiled Eggs/Banana,Mysore Pak,Fried,405.27,351.19,51.76
+2024-07-14,Sun,1,None,0,30.1,0.0,74,Gravy- Kadhai Paneer,Scrambled Eggs/Banana,Gulab Jamun,Fried,399.84,388.75,12.96
+2024-07-15,Mon,0,None,0,28.4,21.6,83,"Pyaaz Kachori, Rajasthani Kadhi",Hyderabadi Chicken,Ras Malai,Milk-based,372.5,367.09,6.97
+2024-07-16,Tue,0,None,0,29.1,19.3,83,Gravy- Kadhai Paneer,Chicken Tikka Masala,Gravy- Punjabi Kadhi Pakora,Fried,401.7,379.17,22.62
+2024-07-17,Wed,0,Fest,1,28.2,36.4,84,Dry- Bhindi Masala,Hyderabadi Chicken,Basundi,Milk-based,425.37,409.3,16.84
+2024-07-18,Thu,0,None,0,29.4,0.0,81,"Steamed Rice, Dal Makhni, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Fruit Custard,Milk-based,416.79,404.96,10.86
+2024-07-19,Fri,0,None,0,29.3,0.0,76,"Jeera Rice, Dal Tadka, Chapati",Bengali Fish Curry,Imarti,Fried,422.73,418.55,5.35
+2024-07-20,Sat,1,None,0,27.6,33.7,80,Gravy- Kashmiri Dum Aloo,Chicken Tikka Masala,Jalebi,Fried,369.32,339.05,28.93
+2024-07-21,Sun,1,None,0,27.7,37.9,84,Gravy- Matki Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Basundi,Milk-based,384.2,357.52,25.24
+2024-07-22,Mon,0,None,0,28.9,28.9,74,"Steamed Rice, Dal Makhani, Chapati",Chicken Chettinad,Mysore Pak,Fried,376.42,350.16,25.56
+2024-07-23,Tue,0,None,0,29.1,16.2,78,Gravy - Shahi Paneer,Egg Kosha,Imarti,Fried,392.32,394.57,0.0
+2024-07-24,Wed,0,Holiday,1,28.7,47.9,83,"Steamed Rice, Dal Fry, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Gulab Jamun,Fried,329.18,261.53,68.25
+2024-07-25,Thu,0,None,0,29.2,0.0,78,Rajma Boiled,Egg Roast Curry,"Bread Pakoda, Ketchup",Fried,412.18,409.05,2.53
+2024-07-26,Fri,0,Club Event,1,28.4,8.5,75,"Methi Thepla, Sabzi, Coriander Chutney",Hyderabadi Chicken,Sheera,Halwa-type,405.89,405.48,0.46
+2024-07-27,Sat,1,None,0,29.2,6.0,81,Gravy - Shahi Paneer,Bengali Fish Curry,Gulab Jamun,Fried,394.24,375.36,17.59
+2024-07-28,Sun,1,Fest,1,26.7,52.5,83,Gravy- Navratan Korma,"Sindhi Chicken Biryani, Mirchi ka Salan",Mysore Pak,Fried,416.3,384.49,33.87
+2024-07-29,Mon,0,None,0,27.9,0.0,77,Gravy- Rajma Masala,Boiled Eggs/Banana,Gulab Jamun,Fried,416.68,409.42,8.42
+2024-07-30,Tue,0,None,0,29.5,14.3,80,Gravy- Navratan Korma,"Sindhi Chicken Biryani, Mirchi ka Salan",Halwa,Halwa-type,415.49,402.91,11.62
+2024-07-31,Wed,0,None,0,30.5,0.0,73,"Kashmiri Dum Biryani, Chole Masala",Chicken Chettinad,Halwa,Halwa-type,372.6,383.14,0.0
+2024-08-01,Thu,0,None,0,28.6,24.4,77,"Steamed Rice, Masoor Dal, Chapati",Boiled Eggs/Banana,Caramel Pudding,Milk-based,413.15,393.07,21.69
+2024-08-02,Fri,0,None,0,30.5,0.0,84,Rajma Boiled,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Gulab Jamun,Fried,385.38,381.41,4.03
+2024-08-03,Sat,1,Fest,1,28.6,22.2,77,"Jeera Rice, Dal Tadka, Chapati",Chicken Sukka,Basundi,Milk-based,443.54,425.46,17.86
+2024-08-04,Sun,1,None,0,29.7,0.0,77,"Kashmiri Dum Biryani, Chole Masala",Egg Roast Curry,Gravy- Punjabi Kadhi Pakora,Fried,413.66,393.51,19.69
+2024-08-05,Mon,0,Club Event,1,29.3,10.1,79,"Steamed Rice, Dal Tadka, Chapati",Egg Kosha,Gulab Jamun,Fried,413.71,396.1,18.03
+2024-08-06,Tue,0,None,0,29.0,17.1,84,Dry- Mixed Sprouts Dry,Chicken Chettinad,Caramel Pudding,Milk-based,407.18,405.12,1.12
+2024-08-07,Wed,0,None,0,28.1,23.8,80,"Pyaaz Kachori, Rajasthani Kadhi","Chicken Zafrani Biryani, Mirchi Ka Saalan",Gulab Jamun,Fried,399.15,390.0,7.82
+2024-08-08,Thu,0,None,0,29.4,0.0,86,Gravy- Kadhai Paneer,Garlic Chicken,Kheer,Milk-based,417.41,416.71,0.0
+2024-08-09,Fri,0,None,0,28.7,24.5,84,"Steamed Rice, Dal Makhni, Chapati",Garlic Chicken,Basundi,Milk-based,401.56,386.69,14.61
+2024-08-10,Sat,1,None,0,29.7,0.0,74,"Moong Dal Chilla, Curd, Coriander Chutney",Bengali Fish Curry,"Bread Pakoda, Ketchup",Fried,406.52,388.25,18.94
+2024-08-11,Sun,1,None,0,27.9,30.0,81,Gravy- Paneer Angara,Fish Kalia,Mysore Pak,Fried,379.06,354.34,23.89
+2024-08-12,Mon,0,Club Event,1,28.6,12.0,74,"Jeera Rice, Dhaba Style Dal, Chapati",Scrambled Eggs/Banana,Sheera,Halwa-type,429.38,428.26,2.37
+2024-08-13,Tue,0,None,0,28.7,0.0,77,Gravy- Paneer Butter Masala,Butter Chicken,Ras Malai,Milk-based,393.68,389.52,4.92
+2024-08-14,Wed,0,None,0,29.0,7.3,80,Dry- Mixed Sprouts Dry,Fish Kalia,Fruit Custard,Milk-based,410.66,411.49,0.0
+2024-08-15,Thu,0,None,0,28.3,12.0,77,Gravy- Paneer Tikka Masala,Egg Roast Curry,Caramel Pudding,Milk-based,388.25,374.28,13.0
+2024-08-16,Fri,0,Fest,1,28.4,44.6,82,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Chicken Tikka Masala,"Bread Pakoda, Ketchup",Fried,422.02,403.47,18.55
+2024-08-17,Sat,1,Club Event,1,29.3,0.0,83,Dry- Gobi Matar,Fish Kalia,Mysore Pak,Fried,432.1,426.83,7.18
+2024-08-18,Sun,1,None,0,28.3,0.0,78,"Set Dosa, Kadala Curry",Chicken Chettinad,Caramel Pudding,Milk-based,402.36,390.14,11.96
+2024-08-19,Mon,0,None,0,28.9,32.6,79,"Steamed Rice, Dal Makhani, Chapati",Scrambled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,386.86,352.56,34.17
+2024-08-20,Tue,0,None,0,29.2,15.9,77,Masala Omelette/Banana,Chicken Tikka Masala,Imarti,Fried,383.38,380.8,2.52
+2024-08-21,Wed,0,Holiday,1,27.8,23.0,84,"Tamarind Rice, Toor Dal",Fish Kalia,Halwa,Halwa-type,357.77,288.14,67.66
+2024-08-22,Thu,0,None,0,29.0,17.9,78,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Chicken Sukka,Kheer,Milk-based,393.84,388.4,5.06
+2024-08-23,Fri,0,None,0,29.7,11.7,76,Gravy- Paneer Butter Masala,Chicken Sukka,Jalebi,Fried,383.39,365.78,17.75
+2024-08-24,Sat,1,None,0,29.0,0.0,79,Dry- Achari Bhindi,Chicken Tikka Masala,Caramel Pudding,Milk-based,420.58,415.1,6.05
+2024-08-25,Sun,1,None,0,27.5,42.7,79,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Sukka,Jalebi,Fried,392.89,351.62,42.89
+2024-08-26,Mon,0,None,0,30.7,0.0,73,Chole Bhature,Egg Kosha,Ice Cream,Milk-based,398.32,387.67,9.93
+2024-08-27,Tue,0,None,0,28.5,22.0,81,"Pyaaz Kachori, Rajasthani Kadhi",Boiled Eggs/Banana,Sheera,Halwa-type,403.65,399.95,4.21
+2024-08-28,Wed,0,None,0,30.1,10.6,75,"Steamed Rice, Dal Makhni, Chapati",Boiled Eggs/Banana,Kheer,Milk-based,379.34,375.1,3.91
+2024-08-29,Thu,0,None,0,29.0,3.0,83,Gravy- Matar Palak,Egg Kosha,Imarti,Fried,391.96,375.23,18.45
+2024-08-30,Fri,0,None,0,28.1,39.6,73,Dry- Gobi Matar,Chicken Sukka,Ras Malai,Milk-based,389.21,360.9,27.58
+2024-08-31,Sat,1,Holiday,1,29.9,0.0,78,"Shahi Paneer, Palak Puri",Bengali Fish Curry,Halwa,Halwa-type,383.43,316.86,69.1
+2024-09-01,Sun,1,None,0,28.3,30.1,81,Gravy- Green Peas Masala,Boiled Eggs/Banana,Payasam,Milk-based,382.03,353.64,30.68
+2024-09-02,Mon,0,None,0,28.5,10.8,75,Dry- Bharwa Bhindi,Chicken Tikka Masala,Fruit Custard,Milk-based,406.26,401.58,6.95
+2024-09-03,Tue,0,None,0,29.0,0.0,75,"Set Dosa, Kadala Curry",Chicken Sukka,Imarti,Fried,387.69,390.8,0.0
+2024-09-04,Wed,0,None,0,29.2,0.0,77,"Steamed Rice, Masoor Dal, Chapati",Bengali Fish Curry,Payasam,Milk-based,414.5,410.14,4.77
+2024-09-05,Thu,0,None,0,28.0,44.7,87,Gravy- Paneer Lababdar,Chicken Tikka Masala,Basundi,Milk-based,392.69,363.01,30.71
+2024-09-06,Fri,0,None,0,28.5,0.0,70,"Tamarind Rice, Toor Dal","Sindhi Chicken Biryani, Mirchi ka Salan",Jalebi,Fried,403.37,393.96,10.55
+2024-09-07,Sat,1,Holiday,1,27.8,52.3,85,"Steamed Rice, Masoor Dal, Chapati",Garlic Chicken,Mysore Pak,Fried,359.66,277.64,82.41
+2024-09-08,Sun,1,None,0,30.2,0.0,77,Dry- Paneer Bhurji,Egg Kosha,Imarti,Fried,397.69,393.75,3.64
+2024-09-09,Mon,0,None,0,29.3,0.0,75,"Steamed Rice, Dal Makhni, Chapati",Chicken Sukka,Sheera,Halwa-type,408.99,399.76,9.36
+2024-09-10,Tue,0,Fest,1,29.5,0.0,79,Dry- Paneer Bhurji,Chicken Tikka Masala,"Bread Pakoda, Ketchup",Fried,451.41,453.95,1.87
+2024-09-11,Wed,0,None,0,29.5,17.4,80,"Jeera Rice, Dhaba Style Dal, Chapati",Chicken Chettinad,Payasam,Milk-based,395.55,375.23,22.99
+2024-09-12,Thu,0,None,0,29.2,0.0,84,Chole Bhature,Boiled Eggs/Banana,Jalebi,Fried,408.11,398.93,9.06
+2024-09-13,Fri,0,None,0,28.7,24.1,73,Chole Bhature,Chicken Sukka,Payasam,Milk-based,391.34,374.31,16.76
+2024-09-14,Sat,1,None,0,29.1,22.6,81,Dry- Achari Bhindi,Egg Kosha,Kheer,Milk-based,387.35,380.11,6.85
+2024-09-15,Sun,1,None,0,29.4,15.4,79,Dry- Bharwa Bhindi,Egg Roast Curry,Imarti,Fried,401.56,387.41,15.06
+2024-09-16,Mon,0,None,0,29.9,0.0,70,Dry- Aloo Capsicum,Bengali Fish Curry,Sheera,Halwa-type,378.51,374.74,3.87
+2024-09-17,Tue,0,Holiday,1,31.0,11.0,80,"Moong Dal Chilla, Curd, Coriander Chutney",Boiled Eggs/Banana,Caramel Pudding,Milk-based,359.97,303.04,58.74
+2024-09-18,Wed,0,Club Event,1,28.2,0.0,77,"Jeera Rice, Dhaba Style Dal, Chapati",Garlic Chicken,Kheer,Milk-based,439.87,446.94,0.0
+2024-09-19,Thu,0,None,0,29.6,2.5,76,Gravy- Navratan Korma,Chicken Sukka,Jalebi,Fried,421.6,414.24,6.71
+2024-09-20,Fri,0,Exam,1,29.4,0.0,77,"Methi Thepla, Sabzi, Coriander Chutney",Scrambled Eggs/Banana,Payasam,Milk-based,392.39,356.29,37.98
+2024-09-21,Sat,1,Exam,1,29.3,23.3,80,"Shahi Paneer, Palak Puri",Garlic Chicken,Halwa,Halwa-type,358.45,315.0,41.73
+2024-09-22,Sun,1,Exam,1,30.0,0.0,75,"Steamed Rice, Masoor Dal, Chapati",Egg Kosha,Caramel Pudding,Milk-based,372.98,339.13,35.3
+2024-09-23,Mon,0,Exam,1,28.4,34.3,80,Gravy- Green Peas Masala,Chicken Chettinad,Gulab Jamun,Fried,365.85,326.1,39.3
+2024-09-24,Tue,0,Exam,1,29.8,0.0,71,Gravy- Baby Corn Masala,Butter Chicken,Imarti,Fried,396.36,367.81,27.84
+2024-09-25,Wed,0,Exam,1,29.0,32.5,77,"Moong Dal Chilla, Curd, Coriander Chutney",Egg Kosha,Gravy- Punjabi Kadhi Pakora,Fried,366.05,316.47,52.29
+2024-09-26,Thu,0,Exam,1,30.5,0.0,79,"Shahi Paneer, Palak Puri",Fish Kalia,Sheera,Halwa-type,388.7,339.5,49.09
+2024-09-27,Fri,0,Exam,1,28.5,38.0,82,Gravy- Green Peas Masala,Butter Chicken,Ice Cream,Milk-based,360.96,307.03,53.96
+2024-09-28,Sat,1,Exam,1,29.4,24.7,76,Gravy- Paneer Angara,Butter Chicken,Ras Malai,Milk-based,364.67,303.73,61.84
+2024-09-29,Sun,1,None,0,28.8,20.0,76,"Jeera Rice, Dal Tadka, Chapati",Egg Kosha,Caramel Pudding,Milk-based,395.63,392.56,1.9
+2024-09-30,Mon,0,None,0,29.8,0.0,76,Dry- Mixed Sprouts Dry,"Sindhi Chicken Biryani, Mirchi ka Salan",Basundi,Milk-based,422.27,412.21,9.79
+2024-10-01,Tue,0,Club Event,1,28.2,5.3,82,"Steamed Rice, Toor Dal, Chapati",Garlic Chicken,Ice Cream,Milk-based,423.54,413.08,11.31
+2024-10-02,Wed,0,None,0,29.8,0.0,81,Rajma Boiled,Boiled Eggs/Banana,Payasam,Milk-based,388.66,377.38,13.49
+2024-10-03,Thu,0,None,0,29.8,0.0,78,Dry- Bhindi Masala,Garlic Chicken,Jalebi,Fried,396.04,396.39,0.0
+2024-10-04,Fri,0,None,0,30.3,0.0,79,"Steamed Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Jalebi,Fried,378.8,367.54,9.86
+2024-10-05,Sat,1,None,0,29.4,0.0,79,"Moong Dal Chilla, Curd, Coriander Chutney",Scrambled Eggs/Banana,Imarti,Fried,408.31,389.27,19.94
+2024-10-06,Sun,1,None,0,29.9,0.0,74,"Steamed Rice, Dal Makhani, Chapati",Scrambled Eggs/Banana,Sheera,Halwa-type,394.54,385.03,11.31
+2024-10-07,Mon,0,Fest,1,28.8,0.0,78,Dry- Aloo Jeera,Garlic Chicken,Sheera,Halwa-type,449.12,458.0,0.0
+2024-10-08,Tue,0,None,0,29.5,0.0,77,"Steamed Rice, Dal Tadka, Chapati",Bengali Fish Curry,"Bread Pakoda, Ketchup",Fried,412.12,413.11,0.0
+2024-10-09,Wed,0,None,0,30.9,0.0,76,Gravy - Shahi Paneer,Fish Kalia,Sheera,Halwa-type,419.28,409.25,9.98
+2024-10-10,Thu,0,None,0,29.7,0.0,76,Gravy- Paneer Lababdar,Garlic Chicken,Gravy- Punjabi Kadhi Pakora,Fried,392.75,381.43,13.74
+2024-10-11,Fri,0,None,0,30.9,0.0,77,Dry- Aloo Jeera,Chicken Tikka Masala,Jalebi,Fried,393.58,395.98,0.0
+2024-10-12,Sat,1,None,0,30.3,3.6,77,"Jeera Rice, Dal Tadka, Chapati",Garlic Chicken,Ice Cream,Milk-based,413.83,387.77,24.6
+2024-10-13,Sun,1,Club Event,1,30.1,6.5,71,Dry - Lobia Masala,"Sindhi Chicken Biryani, Mirchi ka Salan",Basundi,Milk-based,414.51,422.37,0.0
+2024-10-14,Mon,0,None,0,29.3,6.9,79,"Set Dosa, Kadala Curry",Boiled Eggs/Banana,Basundi,Milk-based,390.06,385.86,5.22
+2024-10-15,Tue,0,None,0,30.6,0.0,81,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Butter Chicken,Payasam,Milk-based,400.5,413.38,0.0
+2024-10-16,Wed,0,None,0,29.2,17.9,78,"Kashmiri Dum Biryani, Chole Masala","Sindhi Chicken Biryani, Mirchi ka Salan",Kheer,Milk-based,413.67,395.96,15.95
+2024-10-17,Thu,0,None,0,28.6,39.6,86,Dry- Bharwa Bhindi,Boiled Eggs/Banana,"Bread Pakoda, Ketchup",Fried,381.31,351.01,28.77
+2024-10-18,Fri,0,None,0,28.9,17.2,74,"Kashmiri Dum Biryani, Chole Masala",Chicken Tikka Masala,Gulab Jamun,Fried,385.35,360.4,25.75
+2024-10-19,Sat,1,None,0,30.1,0.0,81,"Jeera Rice, Dal Tadka, Chapati",Hyderabadi Chicken,Jalebi,Fried,384.19,368.14,16.95
+2024-10-20,Sun,1,None,0,30.1,0.0,74,Dry- Bharwa Bhindi,"Sindhi Chicken Biryani, Mirchi ka Salan","Bread Pakoda, Ketchup",Fried,414.08,394.87,19.68
+2024-10-21,Mon,0,None,0,30.0,0.0,77,"Jeera Rice, Dal Fry, Chapati",Chicken Chettinad,Ice Cream,Milk-based,391.53,404.66,0.0
+2024-10-22,Tue,0,None,0,30.2,0.0,76,Dry- Achari Bhindi,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ras Malai,Milk-based,401.13,404.13,0.0
+2024-10-23,Wed,0,None,0,29.5,8.9,81,"Jeera Rice, Dal Tadka, Chapati",Chicken Chettinad,Ras Malai,Milk-based,406.4,403.34,4.18
+2024-10-24,Thu,0,None,0,28.9,12.3,81,Dry- Aloo Jeera,"Sindhi Chicken Biryani, Mirchi ka Salan",Ras Malai,Milk-based,388.47,388.98,0.0
+2024-10-25,Fri,0,Club Event,1,30.2,14.9,78,Masala Omelette/Banana,Butter Chicken,Fruit Custard,Milk-based,404.9,412.21,0.0
+2024-10-26,Sat,1,None,0,28.7,34.2,82,"Steamed Rice, Dal Makhani, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Gravy- Punjabi Kadhi Pakora,Fried,391.05,350.07,40.77
+2024-10-27,Sun,1,None,0,30.0,15.2,75,"Pyaaz Kachori, Rajasthani Kadhi",Boiled Eggs/Banana,Payasam,Milk-based,389.52,370.9,17.63
+2024-10-28,Mon,0,None,0,30.1,0.0,79,Dry- Mixed Sprouts Dry,Chicken Sukka,Ice Cream,Milk-based,407.23,408.79,0.35
+2024-10-29,Tue,0,None,0,30.6,0.0,82,Gravy - Shahi Paneer,Garlic Chicken,Mysore Pak,Fried,400.33,394.84,3.66
+2024-10-30,Wed,0,Holiday,1,29.5,0.0,79,Gravy- Navratan Korma,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Jalebi,Fried,375.31,323.04,51.48
+2024-10-31,Thu,0,Holiday,1,29.1,0.0,75,Gravy- Paneer Tikka Masala,Chicken Tikka Masala,Gulab Jamun,Fried,391.17,335.83,56.88
+2024-11-01,Fri,0,Holiday,1,29.4,0.0,71,"Jeera Rice, Dhaba Style Dal, Chapati",Fish Kalia,Fruit Custard,Milk-based,369.64,329.5,40.17
+2024-11-02,Sat,1,None,0,29.0,0.0,80,Dry- Mixed Sprouts Dry,Bengali Fish Curry,Gulab Jamun,Fried,391.57,384.7,5.03
+2024-11-03,Sun,1,None,0,29.8,0.0,80,Gravy- Matar Palak,Bengali Fish Curry,Caramel Pudding,Milk-based,392.03,378.11,14.15
+2024-11-04,Mon,0,None,0,29.0,0.0,75,Gravy- Baby Corn Masala,Bengali Fish Curry,Gravy- Punjabi Kadhi Pakora,Fried,390.57,380.43,9.83
+2024-11-05,Tue,0,None,0,29.3,0.0,80,"Kashmiri Dum Biryani, Chole Masala",Scrambled Eggs/Banana,Fruit Custard,Milk-based,394.6,390.75,4.06
+2024-11-06,Wed,0,Fest,1,30.0,0.0,80,Dry- Achari Bhindi,Egg Roast Curry,Imarti,Fried,439.9,458.61,0.0
+2024-11-07,Thu,0,None,0,28.3,0.0,83,Dry- Cabbage Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Mysore Pak,Fried,406.44,392.14,14.71
+2024-11-08,Fri,0,None,0,28.6,0.0,75,Dry- Bhindi Masala,Bengali Fish Curry,Gravy- Punjabi Kadhi Pakora,Fried,406.74,420.9,0.0
+2024-11-09,Sat,1,None,0,28.8,0.0,77,"Shahi Paneer, Palak Puri",Chicken Chettinad,Jalebi,Fried,403.97,390.0,14.61
+2024-11-10,Sun,1,None,0,29.2,0.0,77,Dry - Lobia Masala,Garlic Chicken,Gulab Jamun,Fried,426.69,418.39,6.36
+2024-11-11,Mon,0,Club Event,1,30.4,0.0,78,Dry- Achari Bhindi,Fish Kalia,Basundi,Milk-based,441.18,449.6,0.0
+2024-11-12,Tue,0,None,0,29.1,0.0,75,Dry- Bharwa Bhindi,"Sindhi Chicken Biryani, Mirchi ka Salan",Gravy- Punjabi Kadhi Pakora,Fried,431.48,412.8,18.25
+2024-11-13,Wed,0,None,0,28.4,0.0,81,Gravy- Aloo Palak,Boiled Eggs/Banana,Gulab Jamun,Fried,407.88,399.57,6.18
+2024-11-14,Thu,0,Holiday,1,28.9,11.1,78,Dry- Gobi Matar,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Caramel Pudding,Milk-based,340.31,278.69,60.51
+2024-11-15,Fri,0,Exam,1,27.3,0.0,80,"Steamed Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Ice Cream,Milk-based,373.57,355.21,17.94
+2024-11-16,Sat,1,Exam,1,27.7,4.6,79,Gravy- Paneer Lababdar,Bengali Fish Curry,"Bread Pakoda, Ketchup",Fried,374.43,327.34,45.3
+2024-11-17,Sun,1,Exam,1,30.4,0.0,76,"Steamed Rice, Moong Dal, Chapati",Bengali Fish Curry,Fruit Custard,Milk-based,381.72,346.8,35.45
+2024-11-18,Mon,0,Exam,1,28.7,4.1,75,"Jeera Rice, Dal Tadka, Chapati",Bengali Fish Curry,Gravy- Punjabi Kadhi Pakora,Fried,373.99,350.08,25.48
+2024-11-19,Tue,0,Exam,1,28.5,0.0,77,Dry- Bhindi Masala,Hyderabadi Chicken,Gravy- Punjabi Kadhi Pakora,Fried,377.46,340.66,35.15
+2024-11-20,Wed,0,Exam,1,27.1,0.0,76,"Moong Dal Chilla, Curd, Coriander Chutney",Boiled Eggs/Banana,Sheera,Halwa-type,381.13,357.86,23.83
+2024-11-21,Thu,0,Exam,1,28.3,0.0,81,"Jeera Rice, Dal Fry, Chapati",Egg Roast Curry,Basundi,Milk-based,362.97,324.88,39.16
+2024-11-22,Fri,0,Exam,1,29.8,0.0,79,Dry- Mixed Sprouts Dry,Chicken Chettinad,Kheer,Milk-based,372.05,335.11,35.43
+2024-11-23,Sat,1,Exam,1,28.6,0.0,79,"Kashmiri Dum Biryani, Chole Masala",Garlic Chicken,Jalebi,Fried,386.04,341.7,41.66
+2024-11-24,Sun,1,Exam,1,29.5,0.0,77,Gravy- Kashmiri Dum Aloo,Bengali Fish Curry,Caramel Pudding,Milk-based,375.55,353.71,20.89
+2024-11-25,Mon,0,Exam,1,28.8,0.0,78,Dry- Paneer Bhurji,Garlic Chicken,Kheer,Milk-based,378.46,353.65,27.02
+2024-11-26,Tue,0,None,0,28.9,0.0,74,Dry- Aloo Jeera,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Halwa,Halwa-type,417.4,417.66,0.0
+2024-11-27,Wed,0,Holiday,1,28.4,1.9,77,"Jeera Rice, Dal Fry, Chapati",Chicken Tikka Masala,Ice Cream,Milk-based,359.73,303.59,57.5
+2024-11-28,Thu,0,None,0,28.5,0.0,80,Masala Omlette/Banana,Chicken Chettinad,Payasam,Milk-based,395.48,400.12,0.0
+2024-11-29,Fri,0,None,0,29.6,0.0,82,Gravy- Navratan Korma,Bengali Fish Curry,Halwa,Halwa-type,423.71,403.42,21.32
+2024-11-30,Sat,1,Club Event,1,27.9,0.0,82,Gravy- Matki Masala,Egg Kosha,Gulab Jamun,Fried,419.89,406.91,12.13
+2024-12-01,Sun,1,None,0,28.8,0.0,74,Rajma Boiled,Butter Chicken,Imarti,Fried,386.45,376.93,12.34
+2024-12-02,Mon,0,None,0,28.3,0.0,80,Dry- Mixed Sprouts Dry,Garlic Chicken,Kheer,Milk-based,427.13,424.32,2.4
+2024-12-03,Tue,0,None,0,28.5,0.0,75,"Shahi Paneer, Palak Puri",Bengali Fish Curry,Gulab Jamun,Fried,402.26,408.54,0.0
+2024-12-04,Wed,0,None,0,28.9,0.0,77,Gravy- Baby Corn Masala,Chicken Chettinad,Caramel Pudding,Milk-based,420.52,420.67,0.59
+2024-12-05,Thu,0,None,0,28.2,10.0,81,"Moong Dal Chilla, Curd, Coriander Chutney",Egg Kosha,Ice Cream,Milk-based,414.74,408.66,5.34
+2024-12-06,Fri,0,None,0,30.3,2.5,76,Gravy- Kadhai Paneer,"Sindhi Chicken Biryani, Mirchi ka Salan",Gravy- Punjabi Kadhi Pakora,Fried,393.75,379.26,10.63
+2024-12-07,Sat,1,None,0,28.8,0.0,81,Gravy- Baby Corn Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,395.54,392.39,3.56
+2024-12-08,Sun,1,None,0,29.6,0.0,84,Dry- Paneer Bhurji,Boiled Eggs/Banana,Payasam,Milk-based,400.73,393.81,7.45
+2024-12-09,Mon,0,None,0,29.7,0.0,72,Dry- Cabbage Masala,Hyderabadi Chicken,Payasam,Milk-based,402.03,400.19,1.27
+2024-12-10,Tue,0,Holiday,1,28.9,0.0,78,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Garlic Chicken,Gulab Jamun,Fried,378.53,321.98,56.39
+2024-12-11,Wed,0,None,0,29.3,0.0,83,Gravy- Paneer Butter Masala,Butter Chicken,Jalebi,Fried,407.86,403.53,5.56
+2024-12-12,Thu,0,None,0,28.8,0.0,76,Masala Omlette/Banana,Hyderabadi Chicken,Ice Cream,Milk-based,397.99,397.97,0.93
+2024-12-13,Fri,0,Holiday,1,30.2,0.0,76,"Steamed Rice, Dal Tadka, Chapati",Egg Roast Curry,Jalebi,Fried,392.5,329.32,61.96
+2024-12-14,Sat,1,Fest,1,28.6,0.0,72,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Fish Kalia,"Bread Pakoda, Ketchup",Fried,447.51,449.79,0.0
+2024-12-15,Sun,1,None,0,29.0,0.0,76,Masala Omelette/Banana,Chicken Tikka Masala,Halwa,Halwa-type,399.87,377.75,20.71
+2024-12-16,Mon,0,None,0,29.4,0.0,84,Gravy- Matar Palak,Butter Chicken,Jalebi,Fried,403.23,388.16,15.49
+2024-12-17,Tue,0,None,0,28.7,2.0,77,Dry- Paneer Bhurji,Chicken Tikka Masala,Ras Malai,Milk-based,426.6,412.55,13.08
+2024-12-18,Wed,0,None,0,28.5,0.0,76,"Kashmiri Dum Biryani, Chole Masala","Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,418.61,419.27,0.0
+2024-12-19,Thu,0,None,0,26.2,0.0,80,Dry- Bharwa Bhindi,Fish Kalia,Sheera,Halwa-type,389.8,386.33,1.68
+2024-12-20,Fri,0,Fest,1,28.7,0.0,78,Gravy- Paneer Butter Masala,Fish Kalia,Caramel Pudding,Milk-based,436.94,447.28,0.0
+2024-12-21,Sat,1,None,0,30.1,0.0,68,Gravy- Paneer Butter Masala,Bengali Fish Curry,Jalebi,Fried,408.89,400.71,7.55
+2024-12-22,Sun,1,None,0,28.6,0.0,80,Masala Omelette/Banana,Chicken Sukka,"Bread Pakoda, Ketchup",Fried,404.5,388.66,15.17
+2024-12-23,Mon,0,None,0,28.4,0.0,76,Gravy- Aloo Palak,Egg Roast Curry,Halwa,Halwa-type,406.46,400.84,7.29
+2024-12-24,Tue,0,None,0,28.5,5.4,80,Gravy- Aloo Palak,Chicken Chettinad,Gulab Jamun,Fried,387.92,370.28,18.81
+2024-12-25,Wed,0,None,0,29.9,0.0,81,Gravy- Kadhai Paneer,Hyderabadi Chicken,Imarti,Fried,391.74,393.88,0.0
+2024-12-26,Thu,0,None,0,30.2,0.0,77,Gravy- Kadhai Paneer,Butter Chicken,Mysore Pak,Fried,410.36,409.19,2.81
+2024-12-27,Fri,0,None,0,30.0,0.2,75,Chole Bhature,Egg Kosha,Ras Malai,Milk-based,402.91,392.42,10.27
+2024-12-28,Sat,1,None,0,29.4,0.0,83,Dry- Achari Bhindi,Bengali Fish Curry,Gulab Jamun,Fried,396.45,372.35,23.55
+2024-12-29,Sun,1,None,0,28.7,1.0,82,"Jeera Rice, Dal Tadka, Chapati",Butter Chicken,Jalebi,Fried,402.9,385.86,17.44
+2024-12-30,Mon,0,None,0,29.8,0.0,76,"Steamed Rice, Dal Makhni, Chapati",Boiled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,378.58,394.33,0.0
+2024-12-31,Tue,0,None,0,29.5,0.0,80,"Steamed Rice, Toor Dal, Chapati",Chicken Chettinad,Halwa,Halwa-type,411.05,409.99,1.96
+2025-01-01,Wed,0,None,0,28.3,0.0,75,Rajma Boiled,Bengali Fish Curry,"Bread Pakoda, Ketchup",Fried,415.96,397.86,18.8
+2025-01-02,Thu,0,None,0,30.6,0.0,76,Dry- Achari Bhindi,Garlic Chicken,Sheera,Halwa-type,391.63,386.18,2.31
+2025-01-03,Fri,0,None,0,27.8,0.0,78,Dry- Aloo Jeera,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Payasam,Milk-based,393.99,388.0,6.9
+2025-01-04,Sat,1,None,0,29.5,0.0,80,"Steamed Rice, Dal Fry, Chapati",Chicken Tikka Masala,Kheer,Milk-based,400.53,395.4,4.63
+2025-01-05,Sun,1,None,0,30.9,0.0,79,Gravy- Gujarati Kadhi,Boiled Eggs/Banana,Imarti,Fried,387.39,365.32,21.3
+2025-01-06,Mon,0,None,0,29.9,0.0,72,Gravy - Shahi Paneer,Scrambled Eggs/Banana,Fruit Custard,Milk-based,403.58,398.68,5.42
+2025-01-07,Tue,0,None,0,29.4,10.5,82,Gravy - Shahi Paneer,Chicken Sukka,Caramel Pudding,Milk-based,412.71,406.94,6.5
+2025-01-08,Wed,0,None,0,28.6,0.0,78,Gravy- Matar Palak,Hyderabadi Chicken,Gravy- Punjabi Kadhi Pakora,Fried,418.38,401.05,17.3
+2025-01-09,Thu,0,Fest,1,29.3,0.0,76,"Kashmiri Dum Biryani, Chole Masala",Fish Kalia,Imarti,Fried,443.03,461.94,0.0
+2025-01-10,Fri,0,None,0,29.1,18.5,80,Gravy- Paneer Tikka Masala,Garlic Chicken,Mysore Pak,Fried,412.46,388.56,26.12
+2025-01-11,Sat,1,None,0,29.6,0.0,80,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Chicken Sukka,Basundi,Milk-based,392.94,392.05,2.69
+2025-01-12,Sun,1,None,0,28.6,0.0,78,Gravy- Green Peas Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Kheer,Milk-based,427.33,419.28,6.99
+2025-01-13,Mon,0,Club Event,1,29.2,0.0,70,"Kashmiri Dum Biryani, Chole Masala",Egg Kosha,Ice Cream,Milk-based,423.81,437.85,0.0
+2025-01-14,Tue,0,None,0,28.6,0.0,69,Gravy- Paneer Butter Masala,Egg Roast Curry,Jalebi,Fried,416.55,422.62,0.0
+2025-01-15,Wed,0,None,0,30.2,0.0,73,Dry- Aloo Capsicum,Egg Roast Curry,Mysore Pak,Fried,402.79,384.6,18.28
+2025-01-16,Thu,0,Fest,1,29.1,20.3,84,"Jeera Rice, Dal Fry, Chapati",Fish Kalia,Gravy- Punjabi Kadhi Pakora,Fried,427.8,424.87,3.53
+2025-01-17,Fri,0,None,0,29.3,0.0,78,Dry- Paneer Bhurji,Chicken Sukka,Halwa,Halwa-type,422.27,400.6,22.98
+2025-01-18,Sat,1,None,0,30.0,0.0,76,Masala Omlette/Banana,Chicken Chettinad,Kheer,Milk-based,401.52,398.04,3.37
+2025-01-19,Sun,1,None,0,29.2,0.0,80,"Jeera Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Gravy- Punjabi Kadhi Pakora,Fried,425.44,422.24,3.82
+2025-01-20,Mon,0,None,0,27.7,5.8,77,Masala Omelette/Banana,Boiled Eggs/Banana,Payasam,Milk-based,413.71,415.13,0.0
+2025-01-21,Tue,0,None,0,29.0,0.0,76,Masala Omlette/Banana,Garlic Chicken,"Bread Pakoda, Ketchup",Fried,402.69,400.3,5.39
+2025-01-22,Wed,0,None,0,28.7,0.0,75,"Steamed Rice, Dal Tadka, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Caramel Pudding,Milk-based,403.81,410.39,0.0
+2025-01-23,Thu,0,Holiday,1,28.9,0.0,76,"Steamed Rice, Dal Makhani, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Basundi,Milk-based,353.07,298.63,53.18
+2025-01-24,Fri,0,None,0,29.2,0.0,82,Dry- Gobi Matar,Chicken Sukka,Jalebi,Fried,400.84,393.76,6.04
+2025-01-25,Sat,1,None,0,30.0,1.3,77,"Steamed Rice, Dal Fry, Chapati",Bengali Fish Curry,Fruit Custard,Milk-based,391.45,374.39,16.3
+2025-01-26,Sun,1,None,0,28.6,0.0,78,Chole Bhature,Chicken Chettinad,Basundi,Milk-based,388.19,389.98,0.06
+2025-01-27,Mon,0,None,0,28.8,0.0,82,Dry- Cabbage Masala,Chicken Tikka Masala,Jalebi,Fried,402.69,369.4,34.31
+2025-01-28,Tue,0,None,0,29.0,0.0,69,Gravy- Rajma Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Halwa,Halwa-type,402.84,410.18,0.0
+2025-01-29,Wed,0,None,0,29.0,6.4,82,Chole Bhature,Chicken Sukka,Basundi,Milk-based,387.82,389.0,1.01
+2025-01-30,Thu,0,None,0,29.1,0.0,81,Dry- Cabbage Masala,"Sindhi Chicken Biryani, Mirchi ka Salan",Basundi,Milk-based,406.96,391.18,17.83
+2025-01-31,Fri,0,None,0,28.5,0.0,77,Masala Omlette/Banana,Hyderabadi Chicken,Payasam,Milk-based,417.41,410.81,6.27
+2025-02-01,Sat,1,None,0,29.3,0.0,81,Dry - Lobia Masala,Chicken Tikka Masala,Halwa,Halwa-type,402.29,389.22,12.03
+2025-02-02,Sun,1,None,0,29.3,0.0,83,Gravy- Matar Palak,Chicken Sukka,Fruit Custard,Milk-based,400.16,384.69,14.3
+2025-02-03,Mon,0,None,0,29.3,0.0,80,"Steamed Rice, Moong Dal, Chapati",Garlic Chicken,Basundi,Milk-based,405.85,412.84,0.0
+2025-02-04,Tue,0,None,0,29.2,0.0,76,"Set Dosa, Kadala Curry","Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,375.78,374.14,0.0
+2025-02-05,Wed,0,None,0,28.7,0.0,78,Gravy- Navratan Korma,Scrambled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,437.4,433.0,4.43
+2025-02-06,Thu,0,Fest,1,28.7,0.0,77,Gravy- Kadhai Paneer,Bengali Fish Curry,Jalebi,Fried,451.38,468.76,0.0
+2025-02-07,Fri,0,None,0,28.5,0.0,77,Dry- Achari Bhindi,Garlic Chicken,Imarti,Fried,409.04,407.21,0.0
+2025-02-08,Sat,1,None,0,29.7,0.0,81,"Jeera Rice, Dal Tadka, Chapati",Butter Chicken,Caramel Pudding,Milk-based,389.34,372.8,14.68
+2025-02-09,Sun,1,None,0,29.0,0.0,82,Masala Omlette/Banana,Chicken Chettinad,Ice Cream,Milk-based,414.55,416.9,0.0
+2025-02-10,Mon,0,None,0,29.4,18.0,81,"Steamed Rice, Moong Dal, Chapati",Chicken Chettinad,Payasam,Milk-based,385.07,378.52,7.52
+2025-02-11,Tue,0,None,0,30.4,0.0,83,Gravy- Matki Masala,Fish Kalia,"Bread Pakoda, Ketchup",Fried,405.67,418.6,0.0
+2025-02-12,Wed,0,None,0,28.5,0.0,78,"Steamed Rice, Masoor Dal, Chapati",Butter Chicken,Kheer,Milk-based,395.92,393.43,3.42
+2025-02-13,Thu,0,None,0,30.1,0.0,76,Dry- Gobi Matar,Scrambled Eggs/Banana,Gulab Jamun,Fried,396.53,390.45,7.24
+2025-02-14,Fri,0,None,0,27.9,10.0,75,Dry- Mixed Sprouts Dry,Chicken Tikka Masala,Mysore Pak,Fried,392.93,386.74,7.09
+2025-02-15,Sat,1,None,0,29.3,0.0,78,"Moong Dal Chilla, Curd, Coriander Chutney",Scrambled Eggs/Banana,Fruit Custard,Milk-based,414.87,410.93,5.54
+2025-02-16,Sun,1,None,0,28.7,0.0,76,"Jeera Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Mysore Pak,Fried,396.71,372.63,25.98
+2025-02-17,Mon,0,Club Event,1,30.0,0.0,78,Gravy- Rajma Masala,Egg Roast Curry,Caramel Pudding,Milk-based,411.94,428.34,0.0
+2025-02-18,Tue,0,None,0,28.2,0.0,76,Gravy- Aloo Palak,Butter Chicken,Gravy- Punjabi Kadhi Pakora,Fried,412.51,425.21,0.0
+2025-02-19,Wed,0,Club Event,1,28.2,0.3,77,"Steamed Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,429.39,443.46,0.0
+2025-02-20,Thu,0,None,0,29.6,0.0,81,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Egg Roast Curry,Ras Malai,Milk-based,406.71,404.16,1.03
+2025-02-21,Fri,0,Holiday,1,28.8,0.0,78,Dry- Achari Bhindi,Boiled Eggs/Banana,"Bread Pakoda, Ketchup",Fried,383.6,331.58,51.91
+2025-02-22,Sat,1,None,0,29.5,0.0,83,Gravy- Paneer Butter Masala,Scrambled Eggs/Banana,Jalebi,Fried,391.26,395.03,0.0
+2025-02-23,Sun,1,None,0,28.6,0.0,73,"Steamed Rice, Masoor Dal, Chapati",Butter Chicken,Gravy- Punjabi Kadhi Pakora,Fried,425.67,406.49,19.2
+2025-02-24,Mon,0,None,0,28.7,0.0,70,Dry- Mixed Sprouts Dry,Chicken Chettinad,Basundi,Milk-based,405.43,402.75,1.95
+2025-02-25,Tue,0,None,0,27.9,15.9,80,Gravy- Paneer Butter Masala,Chicken Tikka Masala,Fruit Custard,Milk-based,397.31,389.52,9.28
+2025-02-26,Wed,0,None,0,27.9,12.8,78,Gravy- Navratan Korma,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Mysore Pak,Fried,405.6,396.33,7.77
+2025-02-27,Thu,0,None,0,29.5,0.0,76,"Pyaaz Kachori, Rajasthani Kadhi",Bengali Fish Curry,Kheer,Milk-based,407.26,403.13,2.37
+2025-02-28,Fri,0,None,0,29.6,0.0,80,Gravy- Aloo Palak,Butter Chicken,Payasam,Milk-based,410.44,406.43,3.0
+2025-03-01,Sat,1,None,0,29.3,0.0,78,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Fish Kalia,Basundi,Milk-based,403.21,385.74,16.07
+2025-03-02,Sun,1,None,0,29.6,0.0,78,Gravy- Gujarati Kadhi,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Payasam,Milk-based,412.08,394.51,18.35
+2025-03-03,Mon,0,None,0,30.0,0.0,73,"Steamed Rice, Moong Dal, Chapati",Scrambled Eggs/Banana,Caramel Pudding,Milk-based,394.32,394.42,2.17
+2025-03-04,Tue,0,None,0,30.0,0.2,76,"Steamed Rice, Dal Tadka, Chapati",Scrambled Eggs/Banana,Payasam,Milk-based,399.63,401.7,0.0
+2025-03-05,Wed,0,None,0,29.1,0.0,75,Masala Omelette/Banana,Scrambled Eggs/Banana,Imarti,Fried,406.67,406.05,0.2
+2025-03-06,Thu,0,None,0,29.2,0.0,79,Gravy- Paneer Lababdar,Butter Chicken,Mysore Pak,Fried,408.89,406.64,0.0
+2025-03-07,Fri,0,None,0,28.6,0.0,81,"Steamed Rice, Dal Fry, Chapati",Hyderabadi Chicken,Basundi,Milk-based,394.08,407.51,0.0
+2025-03-08,Sat,1,None,0,29.1,0.0,76,Dry- Bharwa Bhindi,Garlic Chicken,Mysore Pak,Fried,397.5,396.64,0.0
+2025-03-09,Sun,1,None,0,28.3,0.0,77,Gravy- Baby Corn Masala,Hyderabadi Chicken,"Bread Pakoda, Ketchup",Fried,398.62,389.69,10.09
+2025-03-10,Mon,0,None,0,29.0,0.0,76,Gravy- Paneer Tikka Masala,Hyderabadi Chicken,Ice Cream,Milk-based,412.33,416.72,0.0
+2025-03-11,Tue,0,None,0,29.1,4.5,85,Dry- Achari Bhindi,Chicken Sukka,Payasam,Milk-based,422.15,417.57,4.81
+2025-03-12,Wed,0,Club Event,1,29.4,0.0,81,Gravy- Kadhai Paneer,Bengali Fish Curry,Sheera,Halwa-type,420.84,417.42,3.11
+2025-03-13,Thu,0,None,0,29.9,0.0,77,"Steamed Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Payasam,Milk-based,395.81,390.2,7.45
+2025-03-14,Fri,0,None,0,29.7,0.0,82,"Jeera Rice, Dal Tadka, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Payasam,Milk-based,409.3,418.31,0.0
+2025-03-15,Sat,1,Exam,1,29.5,0.0,79,"Pyaaz Kachori, Rajasthani Kadhi",Bengali Fish Curry,Mysore Pak,Fried,388.79,358.4,31.63
+2025-03-16,Sun,1,Exam,1,29.6,0.0,81,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Tikka Masala,"Bread Pakoda, Ketchup",Fried,387.88,340.17,45.86
+2025-03-17,Mon,0,Exam,1,30.2,0.0,76,Dry- Aloo Capsicum,"Sindhi Chicken Biryani, Mirchi ka Salan",Halwa,Halwa-type,388.12,343.94,45.02
+2025-03-18,Tue,0,Exam,1,29.4,0.0,80,Dry- Mixed Sprouts Dry,Scrambled Eggs/Banana,Sheera,Halwa-type,388.74,347.36,42.09
+2025-03-19,Wed,0,Exam,1,28.6,0.0,84,Dry- Bhindi Masala,Butter Chicken,Gravy- Punjabi Kadhi Pakora,Fried,383.92,353.22,30.88
+2025-03-20,Thu,0,Exam,1,29.6,0.0,80,"Steamed Rice, Dal Fry, Chapati",Bengali Fish Curry,Gulab Jamun,Fried,385.42,337.88,47.66
+2025-03-21,Fri,0,Exam,1,27.9,0.0,79,Gravy- Kashmiri Dum Aloo,Butter Chicken,Ras Malai,Milk-based,360.59,341.55,19.93
+2025-03-22,Sat,1,Exam,1,28.6,0.0,82,Gravy- Gujarati Kadhi,Egg Kosha,Ras Malai,Milk-based,385.41,340.77,44.86
+2025-03-23,Sun,1,Exam,1,29.7,0.0,84,"Steamed Rice, Moong Dal, Chapati",Chicken Tikka Masala,Gravy- Punjabi Kadhi Pakora,Fried,371.44,332.43,43.02
+2025-03-24,Mon,0,Exam,1,28.0,0.0,80,Gravy- Kadhai Paneer,Boiled Eggs/Banana,Halwa,Halwa-type,375.89,338.78,39.14
+2025-03-25,Tue,0,Exam,1,30.0,0.0,77,"Steamed Rice, Toor Dal, Chapati",Garlic Chicken,Sheera,Halwa-type,374.65,351.69,23.81
+2025-03-26,Wed,0,None,0,29.8,0.0,79,Dry - Lobia Masala,"Sindhi Chicken Biryani, Mirchi ka Salan","Bread Pakoda, Ketchup",Fried,429.11,436.31,0.0
+2025-03-27,Thu,0,None,0,29.5,0.0,74,"Jeera Rice, Dal Fry, Chapati",Butter Chicken,Imarti,Fried,400.47,389.01,12.83
+2025-03-28,Fri,0,Club Event,1,29.6,0.9,79,"Moong Dal Chilla, Curd, Coriander Chutney",Egg Roast Curry,Fruit Custard,Milk-based,421.44,437.75,0.0
+2025-03-29,Sat,1,None,0,28.5,0.0,81,Gravy- Paneer Lababdar,Bengali Fish Curry,Mysore Pak,Fried,411.43,394.64,18.13
+2025-03-30,Sun,1,None,0,28.1,0.0,77,"Steamed Rice, Dal Tadka, Chapati",Chicken Chettinad,Halwa,Halwa-type,389.54,377.26,12.1
+2025-03-31,Mon,0,None,0,28.5,0.0,78,Gravy- Paneer Angara,"Sindhi Chicken Biryani, Mirchi ka Salan",Gravy- Punjabi Kadhi Pakora,Fried,410.18,411.64,0.0
+2025-04-01,Tue,0,Holiday,1,30.3,0.0,77,Dry- Gobi Matar,Chicken Sukka,Imarti,Fried,379.08,326.52,51.31
+2025-04-02,Wed,0,None,0,29.6,0.0,75,"Shahi Pulao, Dal Makhani",Egg Kosha,Gravy- Punjabi Kadhi Pakora,Fried,395.98,397.87,0.0
+2025-04-03,Thu,0,Holiday,1,29.5,3.6,82,Gravy- Baby Corn Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Payasam,Milk-based,370.1,315.22,53.92
+2025-04-04,Fri,0,None,0,30.4,0.0,73,Gravy- Navratan Korma,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Mysore Pak,Fried,392.89,390.49,2.44
+2025-04-05,Sat,1,None,0,30.7,0.0,79,Gravy- Paneer Lababdar,Hyderabadi Chicken,Payasam,Milk-based,400.87,396.19,4.35
+2025-04-06,Sun,1,None,0,29.7,0.0,79,Gravy - Shahi Paneer,Fish Kalia,Gravy- Punjabi Kadhi Pakora,Fried,407.98,392.97,18.19
+2025-04-07,Mon,0,None,0,29.6,0.0,77,"Kashmiri Dum Biryani, Chole Masala",Chicken Sukka,Jalebi,Fried,419.95,432.28,0.0
+2025-04-08,Tue,0,None,0,29.0,0.8,77,Gravy- Kadhai Paneer,Chicken Chettinad,Payasam,Milk-based,403.29,405.85,0.0
+2025-04-09,Wed,0,None,0,29.9,0.0,75,"Set Dosa, Kadala Curry",Fish Kalia,Gulab Jamun,Fried,420.29,406.06,13.13
+2025-04-10,Thu,0,None,0,30.5,0.0,79,Dry- Mixed Sprouts Dry,Chicken Tikka Masala,Basundi,Milk-based,410.79,424.68,0.0
+2025-04-11,Fri,0,None,0,30.5,0.0,78,"Moong Dal Chilla, Curd, Coriander Chutney",Chicken Sukka,Gravy- Punjabi Kadhi Pakora,Fried,405.47,398.71,5.83
+2025-04-12,Sat,1,None,0,29.5,0.0,77,"Steamed Rice, Dal Makhani, Chapati",Fish Kalia,Fruit Custard,Milk-based,410.32,403.75,7.84
+2025-04-13,Sun,1,Club Event,1,29.5,0.0,77,"Steamed Rice, Masoor Dal, Chapati",Hyderabadi Chicken,Ice Cream,Milk-based,421.62,417.85,4.1
+2025-04-14,Mon,0,Club Event,1,30.2,0.0,83,"Steamed Rice, Dal Makhani, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Jalebi,Fried,436.01,448.32,0.0
+2025-04-15,Tue,0,None,0,30.1,0.0,80,Masala Omelette/Banana,Chicken Chettinad,Ras Malai,Milk-based,385.64,386.65,0.0
+2025-04-16,Wed,0,None,0,30.7,0.0,79,Gravy- Rajma Masala,"Sindhi Chicken Biryani, Mirchi ka Salan",Caramel Pudding,Milk-based,392.38,386.11,7.37
+2025-04-17,Thu,0,None,0,29.7,0.0,71,Gravy- Paneer Tikka Masala,Hyderabadi Chicken,Payasam,Milk-based,404.94,402.86,3.27
+2025-04-18,Fri,0,None,0,30.5,0.0,77,Dry- Gobi Matar,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ice Cream,Milk-based,405.83,415.42,0.0
+2025-04-19,Sat,1,None,0,29.0,0.0,79,"Jeera Rice, Dhaba Style Dal, Chapati",Bengali Fish Curry,"Bread Pakoda, Ketchup",Fried,404.62,389.46,14.45
+2025-04-20,Sun,1,Club Event,1,30.3,0.0,73,Gravy- Kadhai Paneer,Chicken Chettinad,Ice Cream,Milk-based,437.27,431.73,4.87
+2025-04-21,Mon,0,Club Event,1,29.9,0.0,75,Dry- Bharwa Bhindi,"Sindhi Chicken Biryani, Mirchi ka Salan",Gravy- Punjabi Kadhi Pakora,Fried,421.82,424.42,0.0
+2025-04-22,Tue,0,None,0,31.2,0.0,79,Gravy- Paneer Tikka Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan","Bread Pakoda, Ketchup",Fried,416.96,410.56,7.27
+2025-04-23,Wed,0,None,0,31.4,0.0,76,"Steamed Rice, Toor Dal, Chapati",Fish Kalia,Basundi,Milk-based,399.77,398.94,2.26
+2025-04-24,Thu,0,None,0,29.8,0.0,74,Gravy- Matar Palak,Garlic Chicken,Sheera,Halwa-type,401.33,398.0,4.35
+2025-04-25,Fri,0,None,0,29.3,0.0,82,Dry- Aloo Jeera,Chicken Tikka Masala,Mysore Pak,Fried,410.54,409.44,0.0
+2025-04-26,Sat,1,None,0,29.4,0.0,74,Rajma Boiled,Butter Chicken,Ras Malai,Milk-based,398.42,391.84,5.27
+2025-04-27,Sun,1,None,0,30.5,0.0,80,Rajma Boiled,Chicken Chettinad,Jalebi,Fried,396.82,384.22,11.32
+2025-04-28,Mon,0,None,0,30.6,0.0,75,Dry- Mixed Sprouts Dry,Fish Kalia,"Bread Pakoda, Ketchup",Fried,374.12,365.63,9.29
+2025-04-29,Tue,0,None,0,29.6,0.0,78,"Steamed Rice, Dal Makhni, Chapati",Egg Kosha,Halwa,Halwa-type,381.08,379.23,3.28
+2025-04-30,Wed,0,None,0,29.5,0.0,75,Dry- Bharwa Bhindi,Egg Kosha,Imarti,Fried,392.73,391.49,0.96
+2025-05-01,Thu,0,Holiday,1,29.6,0.0,76,Gravy- Kadhai Paneer,Chicken Tikka Masala,Payasam,Milk-based,363.46,317.47,48.11
+2025-05-02,Fri,0,Holiday,1,28.3,0.0,80,"Steamed Rice, Dal Fry, Chapati",Hyderabadi Chicken,Gravy- Punjabi Kadhi Pakora,Fried,380.81,336.2,44.67
+2025-05-03,Sat,1,None,0,30.1,0.0,76,Gravy- Kashmiri Dum Aloo,Hyderabadi Chicken,Fruit Custard,Milk-based,379.31,369.85,11.06
+2025-05-04,Sun,1,None,0,29.8,0.0,78,Dry- Paneer Bhurji,Egg Kosha,Caramel Pudding,Milk-based,408.61,392.23,14.84
+2025-05-05,Mon,0,None,0,30.8,0.0,77,"Steamed Rice, Dal Makhani, Chapati",Boiled Eggs/Banana,Payasam,Milk-based,405.07,408.87,0.0
+2025-05-06,Tue,0,Holiday,1,30.1,3.6,80,Gravy- Paneer Angara,Boiled Eggs/Banana,Kheer,Milk-based,344.21,309.15,35.66
+2025-05-07,Wed,0,None,0,29.4,0.0,78,Gravy- Baby Corn Masala,Hyderabadi Chicken,Basundi,Milk-based,397.66,408.6,0.0
+2025-05-08,Thu,0,None,0,30.2,0.0,72,Gravy- Matki Masala,Chicken Chettinad,Fruit Custard,Milk-based,384.7,375.85,9.11
+2025-05-09,Fri,0,None,0,30.5,0.8,79,"Steamed Rice, Dal Tadka, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Basundi,Milk-based,399.53,413.34,0.0
+2025-05-10,Sat,1,None,0,30.9,0.0,74,Dry- Aloo Capsicum,Fish Kalia,Fruit Custard,Milk-based,387.53,369.16,19.92
+2025-05-11,Sun,1,Club Event,1,29.1,0.0,75,Dry- Aloo Jeera,Bengali Fish Curry,Sheera,Halwa-type,421.23,392.84,30.35
+2025-05-12,Mon,0,None,0,30.0,2.8,74,"Steamed Rice, Dal Fry, Chapati",Chicken Tikka Masala,Fruit Custard,Milk-based,385.08,370.2,14.89
+2025-05-13,Tue,0,None,0,30.6,0.0,74,Dry- Bhindi Masala,Bengali Fish Curry,Mysore Pak,Fried,408.05,405.68,4.17
+2025-05-14,Wed,0,None,0,29.4,20.6,76,"Steamed Rice, Masoor Dal, Chapati",Boiled Eggs/Banana,Gulab Jamun,Fried,387.38,360.66,24.14
+2025-05-15,Thu,0,None,0,30.8,0.0,78,Dry- Gobi Matar,Chicken Chettinad,Ras Malai,Milk-based,407.46,399.97,6.79
+2025-05-16,Fri,0,Fest,1,30.0,0.0,76,"Pyaaz Kachori, Rajasthani Kadhi",Chicken Chettinad,Imarti,Fried,462.32,468.92,0.0
+2025-05-17,Sat,1,None,0,30.8,0.0,77,Gravy- Baby Corn Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Sheera,Halwa-type,412.87,386.71,30.0
+2025-05-18,Sun,1,None,0,29.8,0.0,81,"Steamed Rice, Dal Fry, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Sheera,Halwa-type,412.29,408.59,3.44
+2025-05-19,Mon,0,Holiday,1,30.1,0.0,77,Gravy- Green Peas Masala,Egg Roast Curry,Basundi,Milk-based,368.2,320.82,48.67
+2025-05-20,Tue,0,None,0,29.7,0.0,76,Gravy- Paneer Angara,Egg Kosha,Basundi,Milk-based,408.95,408.43,0.0
+2025-05-21,Wed,0,None,0,28.6,5.5,76,Dry- Paneer Bhurji,Bengali Fish Curry,Gulab Jamun,Fried,399.74,395.18,6.31
+2025-05-22,Thu,0,None,0,29.3,0.0,79,"Steamed Rice, Moong Dal, Chapati",Garlic Chicken,Kheer,Milk-based,414.18,414.61,1.43
+2025-05-23,Fri,0,None,0,31.3,0.0,77,Dry- Cabbage Masala,Scrambled Eggs/Banana,Fruit Custard,Milk-based,389.12,392.45,0.0
+2025-05-24,Sat,1,None,0,29.8,0.0,78,"Jeera Rice, Dal Tadka, Chapati",Chicken Sukka,Fruit Custard,Milk-based,408.79,401.73,6.35
+2025-05-25,Sun,1,None,0,30.1,0.0,78,"Shahi Pulao, Dal Makhani",Egg Kosha,Jalebi,Fried,419.82,410.31,8.58
+2025-05-26,Mon,0,None,0,29.6,9.3,78,Dry- Aloo Jeera,Bengali Fish Curry,Basundi,Milk-based,428.93,423.88,4.81
+2025-05-27,Tue,0,None,0,29.9,0.0,78,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Boiled Eggs/Banana,Payasam,Milk-based,389.97,395.29,0.0
+2025-05-28,Wed,0,None,0,30.4,0.0,76,"Tamarind Rice, Toor Dal",Chicken Sukka,Mysore Pak,Fried,423.18,425.42,0.0
+2025-05-29,Thu,0,None,0,29.9,0.0,82,Gravy- Green Peas Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ras Malai,Milk-based,391.3,396.13,0.0
+2025-05-30,Fri,0,None,0,29.9,0.0,76,Gravy- Gujarati Kadhi,Hyderabadi Chicken,Caramel Pudding,Milk-based,406.36,409.31,0.0
+2025-05-31,Sat,1,None,0,30.0,0.0,79,Gravy- Paneer Lababdar,Egg Kosha,Sheera,Halwa-type,395.82,388.99,10.04
+2025-06-01,Sun,1,None,0,28.6,28.9,77,Rajma Boiled,Egg Roast Curry,Sheera,Halwa-type,395.94,358.99,35.92
+2025-06-02,Mon,0,None,0,29.3,14.8,79,"Steamed Rice, Dal Fry, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Ras Malai,Milk-based,400.25,397.01,4.26
+2025-06-03,Tue,0,None,0,28.9,15.4,73,Gravy- Aloo Palak,Chicken Sukka,Payasam,Milk-based,392.18,386.71,6.98
+2025-06-04,Wed,0,None,0,29.0,0.0,80,Gravy- Paneer Angara,Garlic Chicken,Ice Cream,Milk-based,383.44,388.79,0.0
+2025-06-05,Thu,0,None,0,28.7,42.1,81,Dry- Aloo Capsicum,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Halwa,Halwa-type,383.33,359.51,20.94
+2025-06-06,Fri,0,None,0,30.4,0.0,79,Masala Omelette/Banana,Hyderabadi Chicken,Caramel Pudding,Milk-based,397.73,415.06,0.0
+2025-06-07,Sat,1,None,0,29.7,0.0,77,"Jeera Rice, Dal Fry, Chapati",Scrambled Eggs/Banana,Sheera,Halwa-type,391.98,372.69,20.15
+2025-06-08,Sun,1,Fest,1,28.8,15.7,78,Dry- Mixed Sprouts Dry,Bengali Fish Curry,Ice Cream,Milk-based,421.9,413.65,8.06
+2025-06-09,Mon,0,Fest,1,27.1,56.4,79,Chole Bhature,Chicken Tikka Masala,Jalebi,Fried,422.0,401.52,19.65
+2025-06-10,Tue,0,None,0,29.9,0.0,82,"Shahi Paneer, Palak Puri",Scrambled Eggs/Banana,Ras Malai,Milk-based,405.87,406.78,0.0
+2025-06-11,Wed,0,None,0,28.4,0.0,80,Dry- Aloo Jeera,Hyderabadi Chicken,Ras Malai,Milk-based,415.9,416.88,0.0
+2025-06-12,Thu,0,None,0,30.5,16.1,79,"Pyaaz Kachori, Rajasthani Kadhi",Garlic Chicken,Ras Malai,Milk-based,402.09,382.65,20.56
+2025-06-13,Fri,0,None,0,28.7,65.3,76,Dry- Bhindi Masala,Fish Kalia,Ras Malai,Milk-based,362.32,335.86,25.55
+2025-06-14,Sat,1,None,0,29.0,0.0,84,Gravy- Gujarati Kadhi,Garlic Chicken,"Bread Pakoda, Ketchup",Fried,410.75,405.67,6.71
+2025-06-15,Sun,1,None,0,28.4,41.5,82,"Jeera Rice, Dal Tadka, Chapati",Chicken Tikka Masala,Kheer,Milk-based,382.86,350.43,34.03
+2025-06-16,Mon,0,None,0,30.4,7.6,81,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Chettinad,Payasam,Milk-based,383.66,372.03,8.19
+2025-06-17,Tue,0,None,0,30.4,0.0,74,"Set Dosa, Kadala Curry",Chicken Chettinad,Ras Malai,Milk-based,388.46,381.84,7.94
+2025-06-18,Wed,0,None,0,28.3,0.0,78,Gravy- Matar Palak,Chicken Tikka Masala,Caramel Pudding,Milk-based,407.03,406.1,0.33
+2025-06-19,Thu,0,None,0,28.5,22.9,79,Dry- Mixed Sprouts Dry,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Gulab Jamun,Fried,396.34,372.92,22.53
+2025-06-20,Fri,0,None,0,27.6,33.3,86,"Steamed Rice, Gujarati Dal, Chapati",Egg Roast Curry,Gravy- Punjabi Kadhi Pakora,Fried,384.38,354.15,32.34
+2025-06-21,Sat,1,Club Event,1,29.7,0.0,76,"Jeera Rice, Dal Fry, Chapati",Hyderabadi Chicken,Gulab Jamun,Fried,431.65,422.43,7.47
+2025-06-22,Sun,1,None,0,28.2,45.6,83,"Steamed Rice, Toor Dal, Chapati",Garlic Chicken,Basundi,Milk-based,391.89,355.63,36.56
+2025-06-23,Mon,0,None,0,29.2,0.0,79,Chole Bhature,Chicken Tikka Masala,Gravy- Punjabi Kadhi Pakora,Fried,404.86,415.48,0.0
+2025-06-24,Tue,0,None,0,29.6,5.9,78,Masala Omlette/Banana,"Sindhi Chicken Biryani, Mirchi ka Salan",Mysore Pak,Fried,414.54,418.12,0.0
+2025-06-25,Wed,0,None,0,29.6,0.0,77,Gravy- Green Peas Masala,Fish Kalia,Basundi,Milk-based,422.35,416.72,8.07
+2025-06-26,Thu,0,Holiday,1,29.6,0.0,79,Gravy- Baby Corn Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Gravy- Punjabi Kadhi Pakora,Fried,366.56,315.66,51.63
+2025-06-27,Fri,0,None,0,28.1,25.6,82,Gravy- Baby Corn Masala,Chicken Tikka Masala,Payasam,Milk-based,394.01,370.95,22.55
+2025-06-28,Sat,1,None,0,28.1,18.1,82,Gravy- Matar Palak,Butter Chicken,Ras Malai,Milk-based,399.62,384.79,15.58
+2025-06-29,Sun,1,None,0,29.9,26.4,77,Masala Omlette/Banana,Butter Chicken,Payasam,Milk-based,394.72,368.35,28.1
+2025-06-30,Mon,0,None,0,30.6,0.0,78,Dry- Paneer Bhurji,Hyderabadi Chicken,Ice Cream,Milk-based,400.09,398.58,1.18
+2025-07-01,Tue,0,None,0,29.9,9.5,84,"Jeera Rice, Dhaba Style Dal, Chapati",Boiled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,391.61,369.9,21.21
+2025-07-02,Wed,0,Club Event,1,29.9,28.2,80,"Steamed Rice, Dal Fry, Chapati",Hyderabadi Chicken,Mysore Pak,Fried,404.95,372.85,30.74
+2025-07-03,Thu,0,Fest,1,28.2,17.5,81,Dry- Cabbage Masala,Egg Kosha,Basundi,Milk-based,454.06,451.32,0.99
+2025-07-04,Fri,0,None,0,29.8,12.5,78,"Steamed Rice, Moong Dal, Chapati",Chicken Sukka,Ice Cream,Milk-based,401.95,403.46,0.47
+2025-07-05,Sat,1,None,0,30.3,0.0,78,Dry - Lobia Masala,Scrambled Eggs/Banana,Basundi,Milk-based,398.41,380.99,14.91
+2025-07-06,Sun,1,None,0,30.5,0.0,81,Gravy- Matar Palak,Garlic Chicken,"Bread Pakoda, Ketchup",Fried,407.28,385.91,23.55
+2025-07-07,Mon,0,Fest,1,28.9,11.6,80,Dry- Paneer Bhurji,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ice Cream,Milk-based,444.43,466.51,0.0
+2025-07-08,Tue,0,None,0,30.0,8.5,79,Gravy- Kashmiri Dum Aloo,Butter Chicken,Fruit Custard,Milk-based,405.66,409.97,0.0
+2025-07-09,Wed,0,None,0,28.7,18.4,79,"Set Dosa, Kadala Curry",Butter Chicken,Gravy- Punjabi Kadhi Pakora,Fried,388.95,383.92,5.02
+2025-07-10,Thu,0,None,0,29.9,0.0,74,Gravy - Shahi Paneer,Chicken Sukka,Ras Malai,Milk-based,408.07,406.39,0.99
+2025-07-11,Fri,0,Fest,1,29.6,0.0,80,Gravy- Kashmiri Dum Aloo,Chicken Sukka,Mysore Pak,Fried,428.77,433.79,0.0
+2025-07-12,Sat,1,None,0,27.3,65.2,84,Dry- Bhindi Masala,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Caramel Pudding,Milk-based,378.27,331.42,48.01
+2025-07-13,Sun,1,None,0,29.2,0.0,75,"Jeera Rice, Dal Fry, Chapati",Egg Roast Curry,Ras Malai,Milk-based,408.8,393.34,14.51
+2025-07-14,Mon,0,None,0,29.1,18.9,85,Gravy- Kadhai Paneer,Scrambled Eggs/Banana,Mysore Pak,Fried,415.79,403.17,11.76
+2025-07-15,Tue,0,None,0,27.1,41.3,73,Gravy- Green Peas Masala,Scrambled Eggs/Banana,Imarti,Fried,399.82,363.02,35.88
+2025-07-16,Wed,0,None,0,29.1,0.0,78,"Steamed Rice, Dal Tadka, Chapati",Egg Kosha,Mysore Pak,Fried,421.52,413.92,8.02
+2025-07-17,Thu,0,None,0,26.9,94.0,85,Dry - Lobia Masala,Bengali Fish Curry,Caramel Pudding,Milk-based,370.47,316.62,55.55
+2025-07-18,Fri,0,None,0,28.9,14.0,82,"Methi Thepla, Sabzi, Coriander Chutney",Fish Kalia,Mysore Pak,Fried,385.84,370.42,13.26
+2025-07-19,Sat,1,None,0,30.0,13.0,80,Gravy- Paneer Angara,Chicken Chettinad,Kheer,Milk-based,386.96,376.19,11.0
+2025-07-20,Sun,1,None,0,28.6,31.3,75,Dry- Aloo Jeera,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Kheer,Milk-based,366.16,338.86,28.83
+2025-07-21,Mon,0,None,0,29.5,0.0,79,Dry- Gobi Matar,Garlic Chicken,Ras Malai,Milk-based,417.97,428.33,0.0
+2025-07-22,Tue,0,None,0,27.8,34.2,81,Gravy- Navratan Korma,"Sindhi Chicken Biryani, Mirchi ka Salan",Gulab Jamun,Fried,386.87,368.75,20.0
+2025-07-23,Wed,0,None,0,27.5,35.8,81,"Kashmiri Dum Biryani, Chole Masala",Egg Roast Curry,Ras Malai,Milk-based,401.93,383.91,16.08
+2025-07-24,Thu,0,Club Event,1,29.6,0.0,82,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Scrambled Eggs/Banana,Gulab Jamun,Fried,425.22,417.98,8.87
+2025-07-25,Fri,0,None,0,28.6,0.0,80,Masala Omlette/Banana,Garlic Chicken,"Bread Pakoda, Ketchup",Fried,407.7,407.73,0.67
+2025-07-26,Sat,1,None,0,29.5,0.0,72,"Set Dosa, Kadala Curry",Fish Kalia,Jalebi,Fried,415.94,391.46,25.29
+2025-07-27,Sun,1,None,0,28.5,25.3,77,Gravy- Rajma Masala,Egg Roast Curry,Payasam,Milk-based,389.44,367.37,20.56
+2025-07-28,Mon,0,None,0,28.8,25.8,77,"Steamed Rice, Gujarati Dal, Chapati",Egg Kosha,Basundi,Milk-based,400.13,383.21,14.13
+2025-07-29,Tue,0,None,0,29.0,8.9,82,Dry- Paneer Bhurji,Boiled Eggs/Banana,Halwa,Halwa-type,402.05,394.32,8.59
+2025-07-30,Wed,0,None,0,29.7,0.0,79,Gravy- Paneer Angara,Chicken Chettinad,Fruit Custard,Milk-based,414.65,422.07,0.0
+2025-07-31,Thu,0,None,0,28.5,2.4,78,Dry- Bharwa Bhindi,Boiled Eggs/Banana,Fruit Custard,Milk-based,399.79,381.6,16.57
+2025-08-01,Fri,0,None,0,29.9,0.0,80,Dry - Lobia Masala,Chicken Tikka Masala,Ice Cream,Milk-based,405.73,403.68,2.62
+2025-08-02,Sat,1,Club Event,1,28.3,26.4,75,"Moong Dal Chilla, Curd, Coriander Chutney",Chicken Tikka Masala,Ice Cream,Milk-based,409.76,397.59,12.91
+2025-08-03,Sun,1,None,0,26.8,25.3,83,Dry- Achari Bhindi,Chicken Sukka,Payasam,Milk-based,395.9,369.03,26.91
+2025-08-04,Mon,0,None,0,30.0,18.7,74,"Steamed Rice, Dal Makhni, Chapati",Boiled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,389.76,365.28,23.41
+2025-08-05,Tue,0,None,0,29.1,23.0,79,"Steamed Rice, Toor Dal, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan","Bread Pakoda, Ketchup",Fried,408.74,403.74,4.69
+2025-08-06,Wed,0,None,0,28.3,36.7,77,Dry- Gobi Matar,Garlic Chicken,"Bread Pakoda, Ketchup",Fried,375.56,353.22,21.43
+2025-08-07,Thu,0,Club Event,1,29.2,0.0,75,Gravy- Gujarati Kadhi,Boiled Eggs/Banana,Sheera,Halwa-type,411.99,434.09,0.0
+2025-08-08,Fri,0,None,0,27.7,65.9,87,Masala Omlette/Banana,"Chicken Zafrani Biryani, Mirchi Ka Saalan","Bread Pakoda, Ketchup",Fried,365.69,324.67,37.7
+2025-08-09,Sat,1,Holiday,1,29.2,0.0,78,Gravy- Paneer Butter Masala,Chicken Tikka Masala,Caramel Pudding,Milk-based,361.84,302.02,59.04
+2025-08-10,Sun,1,None,0,27.1,35.6,78,Gravy- Green Peas Masala,Bengali Fish Curry,Ras Malai,Milk-based,394.02,357.32,36.33
+2025-08-11,Mon,0,None,0,29.7,3.8,81,Dry- Gobi Matar,Egg Kosha,Fruit Custard,Milk-based,405.29,412.73,0.0
+2025-08-12,Tue,0,Fest,1,28.2,0.0,79,Gravy- Paneer Tikka Masala,Chicken Sukka,Jalebi,Fried,442.4,451.81,0.0
+2025-08-13,Wed,0,None,0,29.2,0.0,78,Gravy- Baby Corn Masala,Hyderabadi Chicken,Gulab Jamun,Fried,378.9,373.55,4.3
+2025-08-14,Thu,0,Holiday,1,29.5,6.1,75,Dry- Aloo Jeera,Scrambled Eggs/Banana,Sheera,Halwa-type,375.24,315.43,64.66
+2025-08-15,Fri,0,None,0,29.5,11.0,79,Dry- Aloo Jeera,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Sheera,Halwa-type,399.46,397.34,0.95
+2025-08-16,Sat,1,None,0,27.9,26.4,79,Dry- Bharwa Bhindi,Bengali Fish Curry,Halwa,Halwa-type,388.92,367.82,23.51
+2025-08-17,Sun,1,Fest,1,29.2,7.6,76,"Steamed Rice, Dal Makhni, Chapati",Butter Chicken,Fruit Custard,Milk-based,438.23,450.72,0.0
+2025-08-18,Mon,0,None,0,29.2,0.0,82,Chole Bhature,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Gulab Jamun,Fried,390.4,388.33,1.16
+2025-08-19,Tue,0,None,0,28.3,14.2,74,Chole Bhature,Boiled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,406.28,398.17,7.27
+2025-08-20,Wed,0,None,0,28.9,9.9,84,"Jeera Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan",Jalebi,Fried,404.19,388.95,16.72
+2025-08-21,Thu,0,Club Event,1,30.0,35.3,80,Gravy- Paneer Butter Masala,Egg Roast Curry,Fruit Custard,Milk-based,423.96,409.2,15.7
+2025-08-22,Fri,0,None,0,29.7,22.7,79,"Tamarind Rice, Toor Dal",Fish Kalia,Ice Cream,Milk-based,406.89,363.05,42.5
+2025-08-23,Sat,1,None,0,27.8,28.7,78,"Methi Thepla, Sabzi, Coriander Chutney",Egg Kosha,Ice Cream,Milk-based,367.94,336.68,33.4
+2025-08-24,Sun,1,None,0,29.5,14.7,78,"Jeera Rice, Dhaba Style Dal, Chapati","Sindhi Chicken Biryani, Mirchi ka Salan",Imarti,Fried,396.89,377.06,18.73
+2025-08-25,Mon,0,None,0,30.5,0.0,72,"Steamed Rice, Dal Tadka, Chapati",Chicken Chettinad,Fruit Custard,Milk-based,384.58,375.64,10.14
+2025-08-26,Tue,0,None,0,28.9,0.0,79,Dry- Aloo Capsicum,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Basundi,Milk-based,422.83,429.07,0.0
+2025-08-27,Wed,0,None,0,29.1,5.8,77,Dry- Paneer Bhurji,Scrambled Eggs/Banana,Ras Malai,Milk-based,405.15,401.25,2.06
+2025-08-28,Thu,0,None,0,30.6,20.7,77,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Tikka Masala,Mysore Pak,Fried,404.53,391.27,11.28
+2025-08-29,Fri,0,Holiday,1,28.6,16.8,75,Dry- Aloo Capsicum,Boiled Eggs/Banana,Basundi,Milk-based,353.58,285.58,67.23
+2025-08-30,Sat,1,None,0,27.5,25.6,73,Rajma Boiled,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Jalebi,Fried,387.59,356.78,29.52
+2025-08-31,Sun,1,None,0,29.9,19.5,85,"Shahi Paneer, Palak Puri",Butter Chicken,Gulab Jamun,Fried,397.43,368.92,26.1
+2025-09-01,Mon,0,None,0,30.3,0.0,77,Dry- Mixed Sprouts Dry,Hyderabadi Chicken,Basundi,Milk-based,406.65,406.24,0.0
+2025-09-02,Tue,0,Holiday,1,28.0,56.7,76,Dry- Aloo Jeera,Butter Chicken,Fruit Custard,Milk-based,333.54,266.97,69.27
+2025-09-03,Wed,0,None,0,29.3,18.8,78,Rajma Boiled,Egg Roast Curry,Caramel Pudding,Milk-based,407.54,387.99,17.78
+2025-09-04,Thu,0,None,0,29.2,1.6,81,"Shahi Pulao, Dal Makhani",Butter Chicken,Payasam,Milk-based,408.26,408.35,0.0
+2025-09-05,Fri,0,None,0,29.9,0.0,74,"Steamed Rice, Dal Fry, Chapati",Hyderabadi Chicken,Basundi,Milk-based,424.04,423.68,2.77
+2025-09-06,Sat,1,Holiday,1,30.4,0.0,82,Gravy- Paneer Lababdar,Hyderabadi Chicken,Sheera,Halwa-type,364.12,305.61,57.7
+2025-09-07,Sun,1,Holiday,1,27.4,10.7,76,"Steamed Rice, Toor Dal, Chapati",Garlic Chicken,"Bread Pakoda, Ketchup",Fried,363.14,302.32,60.81
+2025-09-08,Mon,0,None,0,29.4,22.7,80,Gravy- Kashmiri Dum Aloo,"Sindhi Chicken Biryani, Mirchi ka Salan",Payasam,Milk-based,392.87,369.14,23.67
+2025-09-09,Tue,0,None,0,28.7,10.8,76,"Steamed Rice, Toor Dal, Chapati",Scrambled Eggs/Banana,Jalebi,Fried,391.59,391.43,0.0
+2025-09-10,Wed,0,None,0,29.4,4.6,78,"Steamed Rice, Moong Dal, Chapati",Egg Kosha,Basundi,Milk-based,403.55,393.28,10.14
+2025-09-11,Thu,0,None,0,27.7,39.4,83,Dry - Lobia Masala,Boiled Eggs/Banana,Payasam,Milk-based,384.39,370.82,13.55
+2025-09-12,Fri,0,None,0,30.0,6.3,79,"Steamed Rice, Dal Makhni, Chapati",Bengali Fish Curry,Fruit Custard,Milk-based,399.3,394.97,5.23
+2025-09-13,Sat,1,None,0,29.6,13.3,78,"Moong Dal Chilla, Curd, Coriander Chutney",Chicken Tikka Masala,Jalebi,Fried,382.59,362.1,20.54
+2025-09-14,Sun,1,None,0,29.5,0.0,77,Gravy- Paneer Angara,Chicken Chettinad,Halwa,Halwa-type,415.6,410.1,5.11
+2025-09-15,Mon,0,None,0,27.2,40.6,80,Gravy- Paneer Lababdar,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,373.82,352.83,20.41
+2025-09-16,Tue,0,Club Event,1,29.8,8.7,76,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Chettinad,Jalebi,Fried,411.46,401.95,11.2
+2025-09-17,Wed,0,Fest,1,27.8,39.3,86,Dry- Bhindi Masala,Egg Kosha,Ras Malai,Milk-based,434.19,420.03,17.77
+2025-09-18,Thu,0,None,0,28.1,11.9,81,Dry- Bharwa Bhindi,Chicken Tikka Masala,Ras Malai,Milk-based,410.7,419.73,0.0
+2025-09-19,Fri,0,None,0,29.4,31.9,81,"Jeera Rice, Dal Fry, Chapati","Chicken Zafrani Biryani, Mirchi Ka Saalan","Bread Pakoda, Ketchup",Fried,397.21,375.17,22.69
+2025-09-20,Sat,1,Exam,1,29.7,0.0,80,"Pyaaz Kachori, Rajasthani Kadhi",Chicken Tikka Masala,Imarti,Fried,390.47,341.48,48.81
+2025-09-21,Sun,1,Exam,1,29.6,10.8,81,Gravy- Navratan Korma,Scrambled Eggs/Banana,Jalebi,Fried,363.31,318.05,44.64
+2025-09-22,Mon,0,Exam,1,29.5,0.0,79,Dry- Cabbage Masala,Chicken Chettinad,Payasam,Milk-based,388.75,354.66,35.56
+2025-09-23,Tue,0,Exam,1,30.4,0.0,76,Gravy- Paneer Angara,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ras Malai,Milk-based,401.62,373.15,29.73
+2025-09-24,Wed,0,Exam,1,28.4,36.8,79,Gravy- Green Peas Masala,Chicken Sukka,Basundi,Milk-based,375.49,319.93,55.28
+2025-09-25,Thu,0,Exam,1,29.0,14.6,75,"Moong Dal Chilla, Curd, Coriander Chutney",Egg Kosha,Basundi,Milk-based,370.14,330.95,38.26
+2025-09-26,Fri,0,Exam,1,29.5,17.0,83,Dry- Paneer Bhurji,Hyderabadi Chicken,"Bread Pakoda, Ketchup",Fried,377.06,340.16,37.32
+2025-09-27,Sat,1,Exam,1,29.1,18.5,79,"Steamed Rice, Masoor Dal, Chapati",Scrambled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,364.49,322.65,42.06
+2025-09-28,Sun,1,Exam,1,29.1,14.4,82,"Steamed Rice, Moong Dal, Chapati",Fish Kalia,Payasam,Milk-based,386.34,333.8,53.07
+2025-09-29,Mon,0,Holiday,1,29.8,0.0,75,Dry- Aloo Jeera,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Ras Malai,Milk-based,349.42,299.36,48.82
+2025-09-30,Tue,0,None,0,29.9,8.0,81,Gravy- Matar Palak,"Sindhi Chicken Biryani, Mirchi ka Salan",Fruit Custard,Milk-based,414.43,396.02,21.21
+2025-10-01,Wed,0,None,0,31.4,0.0,81,Gravy- Matar Palak,Hyderabadi Chicken,Fruit Custard,Milk-based,378.13,363.8,12.38
+2025-10-02,Thu,0,None,0,29.7,0.0,79,Dry- Bharwa Bhindi,Boiled Eggs/Banana,"Bread Pakoda, Ketchup",Fried,411.04,403.33,13.81
+2025-10-03,Fri,0,None,0,30.1,0.0,76,"Pyaaz Kachori, Rajasthani Kadhi",Boiled Eggs/Banana,Gulab Jamun,Fried,379.94,365.3,16.78
+2025-10-04,Sat,1,None,0,29.9,10.7,80,Dry- Mixed Sprouts Dry,Scrambled Eggs/Banana,Gravy- Punjabi Kadhi Pakora,Fried,396.53,376.92,20.78
+2025-10-05,Sun,1,None,0,28.6,15.3,75,"Steamed Rice, Toor Dal, Chapati",Butter Chicken,Mysore Pak,Fried,396.96,384.13,14.79
+2025-10-06,Mon,0,None,0,30.6,0.0,76,"Jeera Rice, Dal Fry, Chapati",Hyderabadi Chicken,Basundi,Milk-based,406.41,411.3,0.0
+2025-10-07,Tue,0,None,0,29.0,0.0,70,Masala Omlette/Banana,Bengali Fish Curry,Caramel Pudding,Milk-based,409.57,422.54,0.0
+2025-10-08,Wed,0,None,0,27.9,26.0,78,Masala Omlette/Banana,Egg Kosha,Kheer,Milk-based,376.25,350.59,25.5
+2025-10-09,Thu,0,Club Event,1,30.1,0.0,79,Dry- Aloo Jeera,Fish Kalia,Payasam,Milk-based,443.5,442.83,0.2
+2025-10-10,Fri,0,None,0,29.4,14.3,79,Dry- Bhindi Masala,Chicken Chettinad,Sheera,Halwa-type,391.05,382.69,8.3
+2025-10-11,Sat,1,None,0,31.1,1.1,76,Gravy- Navratan Korma,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Imarti,Fried,412.51,388.13,22.67
+2025-10-12,Sun,1,None,0,29.5,2.6,71,Gravy - Shahi Paneer,Bengali Fish Curry,Fruit Custard,Milk-based,392.72,382.0,12.25
+2025-10-13,Mon,0,None,0,30.7,0.0,75,Dry- Bharwa Bhindi,Egg Roast Curry,"Bread Pakoda, Ketchup",Fried,399.11,403.29,0.0
+2025-10-14,Tue,0,None,0,30.2,0.0,72,"Set Dosa, Kadala Curry",Fish Kalia,Gravy- Punjabi Kadhi Pakora,Fried,384.18,380.76,1.12
+2025-10-15,Wed,0,None,0,29.2,0.0,79,"Aloo Pyaaz Paratha, Coriander Chutney, Dahi",Chicken Sukka,Gravy- Punjabi Kadhi Pakora,Fried,432.07,443.93,0.0
+2025-10-16,Thu,0,None,0,29.5,0.0,74,Dry- Gobi Matar,"Sindhi Chicken Biryani, Mirchi ka Salan",Payasam,Milk-based,394.21,386.47,7.95
+2025-10-17,Fri,0,Holiday,1,29.2,0.0,73,"Jeera Rice, Dal Tadka, Chapati",Boiled Eggs/Banana,Caramel Pudding,Milk-based,359.67,314.83,43.61
+2025-10-18,Sat,1,Club Event,1,29.0,0.0,74,Gravy- Paneer Tikka Masala,Fish Kalia,Jalebi,Fried,419.83,410.41,8.53
+2025-10-19,Sun,1,None,0,30.7,0.0,72,"Shahi Paneer, Palak Puri",Bengali Fish Curry,Ras Malai,Milk-based,403.02,404.75,0.0
+2025-10-20,Mon,0,None,0,29.7,0.0,78,"Steamed Rice, Moong Dal, Chapati",Chicken Chettinad,Fruit Custard,Milk-based,407.35,389.51,18.33
+2025-10-21,Tue,0,None,0,29.5,0.0,77,Gravy- Rajma Masala,"Sindhi Chicken Biryani, Mirchi ka Salan","Bread Pakoda, Ketchup",Fried,423.5,418.34,5.25
+2025-10-22,Wed,0,None,0,30.3,0.0,80,Gravy- Baby Corn Masala,Chicken Chettinad,Gulab Jamun,Fried,387.9,382.05,8.18
+2025-10-23,Thu,0,None,0,28.7,1.8,71,Dry- Bhindi Masala,Chicken Tikka Masala,Ras Malai,Milk-based,417.75,420.13,1.39
+2025-10-24,Fri,0,None,0,30.7,0.0,81,Dry- Bharwa Bhindi,Garlic Chicken,Mysore Pak,Fried,408.19,402.03,4.69
+2025-10-25,Sat,1,None,0,29.5,32.0,81,Gravy- Kashmiri Dum Aloo,Garlic Chicken,Sheera,Halwa-type,398.78,375.41,21.66
+2025-10-26,Sun,1,None,0,30.1,13.3,73,Gravy- Aloo Palak,Egg Roast Curry,Gulab Jamun,Fried,393.36,364.54,27.06
+2025-10-27,Mon,0,None,0,30.4,15.1,84,Gravy - Shahi Paneer,Chicken Sukka,Basundi,Milk-based,377.71,378.11,0.0
+2025-10-28,Tue,0,None,0,30.5,0.0,78,Dry- Achari Bhindi,Boiled Eggs/Banana,Basundi,Milk-based,391.47,387.02,2.8
+2025-10-29,Wed,0,None,0,27.8,13.4,78,Dry- Paneer Bhurji,Egg Kosha,Halwa,Halwa-type,399.08,384.39,13.69
+2025-10-30,Thu,0,None,0,28.7,0.0,76,Gravy- Navratan Korma,"Chicken Zafrani Biryani, Mirchi Ka Saalan",Kheer,Milk-based,400.45,398.29,2.11
+2025-10-31,Fri,0,Club Event,1,31.1,0.0,74,"Methi Thepla, Sabzi, Coriander Chutney",Chicken Chettinad,Ras Malai,Milk-based,438.95,456.72,0.0
+2025-11-01,Sat,1,None,0,28.6,0.0,73,"Kashmiri Dum Biryani, Chole Masala","Sindhi Chicken Biryani, Mirchi ka Salan",Gravy- Punjabi Kadhi Pakora,Fried,403.3,387.39,16.06
+2025-11-02,Sun,1,None,0,29.3,0.0,78,Gravy- Aloo Palak,Scrambled Eggs/Banana,Payasam,Milk-based,393.62,389.99,4.67
+2025-11-03,Mon,0,None,0,29.8,0.0,83,Gravy- Paneer Angara,Fish Kalia,Imarti,Fried,398.44,388.53,8.55
+2025-11-04,Tue,0,None,0,28.6,0.0,75,Gravy- Rajma Masala,Butter Chicken,Gulab Jamun,Fried,426.86,437.66,0.0
+2025-11-05,Wed,0,None,0,29.2,0.0,78,"Steamed Rice, Masoor Dal, Chapati",Butter Chicken,"Bread Pakoda, Ketchup",Fried,395.59,400.47,0.0
+2025-11-06,Thu,0,None,0,30.2,0.0,79,"Jeera Rice, Dal Fry, Chapati",Egg Roast Curry,Fruit Custard,Milk-based,416.23,420.13,0.0
+2025-11-07,Fri,0,None,0,29.4,0.0,78,Rajma Boiled,Fish Kalia,Ras Malai,Milk-based,395.5,401.77,0.0
+2025-11-08,Sat,1,None,0,29.1,0.0,75,Dry- Bharwa Bhindi,Egg Roast Curry,Imarti,Fried,409.02,396.16,12.65
+2025-11-09,Sun,1,None,0,29.7,0.0,75,Dry- Gobi Matar,Boiled Eggs/Banana,Ice Cream,Milk-based,389.43,389.52,0.9
+2025-11-10,Mon,0,Club Event,1,29.9,0.0,77,"Steamed Rice, Gujarati Dal, Chapati",Butter Chicken,Gravy- Punjabi Kadhi Pakora,Fried,422.5,429.4,0.0
+2025-11-11,Tue,0,Fest,1,28.2,0.0,81,Dry- Aloo Jeera,Butter Chicken,Basundi,Milk-based,413.73,420.86,0.0
+2025-11-12,Wed,0,None,0,29.1,0.0,83,"Kashmiri Dum Biryani, Chole Masala",Hyderabadi Chicken,Kheer,Milk-based,379.49,360.98,17.59
