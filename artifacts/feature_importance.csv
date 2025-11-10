@@ -1,0 +1,101 @@
+feature,importance
+consumed_kg,13.10032549212651
+cooked_kg,3.4059244006315947
+rain_mm,0.5242747827582658
+is_weekend,0.18652694368183584
+event_type_Holiday,0.18296601899623388
+temp_c,0.08332039039787298
+humidity,0.06878750188532694
+day_of_week_Sat,0.04274644796105479
+sweet_type_Halwa-type,0.034628065659754036
+sweet_type_Milk-based,0.032457337330364926
+event_type_nan,0.028842462798513654
+event_flag,0.028585968430750296
+dessert_Gulab Jamun,0.026211993138197352
+day_of_week_Sun,0.024793964069619708
+dessert_Halwa,0.02314702246734518
+dessert_Mysore Pak,0.017196225041013327
+dessert_Gravy- Punjabi Kadhi Pakora,0.017016473001459826
+nonveg_main_dish_Scrambled Eggs/Banana,0.016787469585335054
+sweet_type_Fried,0.015693481467236804
+dessert_Kheer,0.015600707779784532
+nonveg_main_dish_Bengali Fish Curry,0.014841420615629443
+day_of_week_Fri,0.01435088360217831
+veg_main_dish_Dry- Bharwa Bhindi,0.014094381485698667
+nonveg_main_dish_Garlic Chicken,0.013785562912382341
+dessert_Sheera,0.013051080244175508
+event_type_Exam,0.012650701857609982
+veg_main_dish_Gravy- Green Peas Masala,0.012587500081245354
+"veg_main_dish_Steamed Rice, Masoor Dal, Chapati",0.012499709343749072
+day_of_week_Mon,0.012165691619583871
+nonveg_main_dish_Boiled Eggs/Banana,0.011056766736728967
+veg_main_dish_Gravy- Navratan Korma,0.010144856609064104
+day_of_week_Tue,0.009936089481900747
+veg_main_dish_Gravy- Matar Palak,0.009862018773787722
+"nonveg_main_dish_Chicken Zafrani Biryani, Mirchi Ka Saalan",0.009005530604292955
+dessert_Payasam,0.008986028768003172
+"dessert_Bread Pakoda, Ketchup",0.008900676185582684
+day_of_week_Thu,0.0082659066505226
+dessert_Fruit Custard,0.008166112316056627
+day_of_week_Wed,0.007606009039251372
+dessert_Jalebi,0.007284993906666593
+nonveg_main_dish_Butter Chicken,0.0064708857605259495
+nonveg_main_dish_Chicken Chettinad,0.006376786039135118
+veg_main_dish_Gravy- Baby Corn Masala,0.006262449755362568
+nonveg_main_dish_Egg Roast Curry,0.006145945166660561
+"veg_main_dish_Moong Dal Chilla, Curd, Coriander Chutney",0.006051990088767207
+nonveg_main_dish_Chicken Tikka Masala,0.0059590105009798364
+dessert_Ras Malai,0.0059172837853667375
+veg_main_dish_Dry- Paneer Bhurji,0.005912418667409291
+"veg_main_dish_Jeera Rice, Dal Tadka, Chapati",0.0058812424008298616
+nonveg_main_dish_Egg Kosha,0.005872751587885935
+veg_main_dish_Gravy- Kadhai Paneer,0.005485933238276298
+nonveg_main_dish_Fish Kalia,0.005340011136117814
+nonveg_main_dish_Hyderabadi Chicken,0.005240945926147946
+veg_main_dish_Gravy- Aloo Palak,0.005229118392236548
+"nonveg_main_dish_Sindhi Chicken Biryani, Mirchi ka Salan",0.005026022446101293
+dessert_Caramel Pudding,0.004981693069905007
+veg_main_dish_Gravy - Shahi Paneer,0.004843246072588053
+"veg_main_dish_Steamed Rice, Moong Dal, Chapati",0.004835448505733692
+"veg_main_dish_Set Dosa, Kadala Curry",0.004742763262440519
+veg_main_dish_Gravy- Kashmiri Dum Aloo,0.004601280884021069
+"veg_main_dish_Steamed Rice, Dal Fry, Chapati",0.0045381801249114355
+"veg_main_dish_Steamed Rice, Toor Dal, Chapati",0.004370281254526754
+nonveg_main_dish_Chicken Sukka,0.004341085367793569
+veg_main_dish_Dry- Bhindi Masala,0.004253283915475529
+"veg_main_dish_Jeera Rice, Dal Fry, Chapati",0.004251131495372078
+event_type_Fest,0.00408795915068741
+dessert_Basundi,0.004057354095560555
+veg_main_dish_Gravy- Paneer Angara,0.0040308002047475915
+dessert_Ice Cream,0.003965181218349719
+veg_main_dish_Dry- Aloo Jeera,0.0036935319458584214
+veg_main_dish_Dry- Mixed Sprouts Dry,0.0034563012218025908
+"veg_main_dish_Steamed Rice, Dal Tadka, Chapati",0.0034261813545568716
+veg_main_dish_Gravy- Gujarati Kadhi,0.0034124949811969725
+dessert_Imarti,0.002807218607583112
+veg_main_dish_Dry- Gobi Matar,0.0027119765757266387
+veg_main_dish_Rajma Boiled,0.0025794869677682572
+veg_main_dish_Gravy- Rajma Masala,0.0025510653099212457
+veg_main_dish_Masala Omlette/Banana,0.002451134082976163
+veg_main_dish_Gravy- Paneer Tikka Masala,0.0024497460575354313
+"veg_main_dish_Pyaaz Kachori, Rajasthani Kadhi",0.002401876978306536
+"veg_main_dish_Methi Thepla, Sabzi, Coriander Chutney",0.0023559908237048718
+"veg_main_dish_Steamed Rice, Dal Makhani, Chapati",0.002200424142305847
+veg_main_dish_Dry- Achari Bhindi,0.0020161451509433867
+event_type_Club Event,0.0020077962010268753
+veg_main_dish_Dry- Cabbage Masala,0.0018615388379531412
+"veg_main_dish_Steamed Rice, Dal Makhni, Chapati",0.001823137065131834
+"veg_main_dish_Tamarind Rice, Toor Dal",0.0017934093965355235
+"veg_main_dish_Shahi Paneer, Palak Puri",0.001746777760508672
+veg_main_dish_Gravy- Paneer Butter Masala,0.0016473878330484388
+veg_main_dish_Chole Bhature,0.0016424785320187194
+"veg_main_dish_Aloo Pyaaz Paratha, Coriander Chutney, Dahi",0.0015664143938223672
+veg_main_dish_Gravy- Paneer Lababdar,0.0015484668884146442
+veg_main_dish_Dry - Lobia Masala,0.0015113130994952137
+"veg_main_dish_Kashmiri Dum Biryani, Chole Masala",0.0013125769346032283
+"veg_main_dish_Jeera Rice, Dhaba Style Dal, Chapati",0.0011635381974530866
+veg_main_dish_Gravy- Matki Masala,0.0010694192689727864
+veg_main_dish_Dry- Aloo Capsicum,0.000778601606805419
+veg_main_dish_Masala Omelette/Banana,0.0006833048212297218
+"veg_main_dish_Steamed Rice, Gujarati Dal, Chapati",0.0003578399150804632
+"veg_main_dish_Shahi Pulao, Dal Makhani",7.492891300409827e-05
